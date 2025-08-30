@@ -1,0 +1,18 @@
+{
+  "counts": {
+    "total": 314,
+    "pages_total": 28,
+    "pages_by_reason": {
+      "threshold": 14,
+      "override": 14
+    },
+    "subsections_total": 286
+  },
+  "chunks_seen": [
+    "1/1"
+  ],
+  "overwritten_ids": [],
+  "orphans_attached_to_root": [],
+  "promotions": [],
+  "demotions": []
+}
