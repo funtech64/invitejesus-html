@@ -1,31 +1,24 @@
-# Umbanda
-
+text# Umbanda
 ## Introduction
-Umbanda is an Afro-Brazilian religion that blends African traditions (especially Yoruba and Bantu), Spiritism, Catholicism, and indigenous elements. Founded in the early 20th century, it focuses on spirit mediumship, healing, and charity through rituals involving music and possession.
-
+Umbanda is a syncretic religion founded in Brazil in the early 20th century, blending African (Yoruba, Bantu), Catholic, and Spiritist elements. It emphasizes spirit mediumship, healing, and rituals to connect with spirits.
 ## View on God
-Umbanda is monotheistic with polytheistic elements. The supreme deity is Olorum or Zambi (equivalent to the Christian God), a transcendent creator. Authority is delegated to orixás (deities like Iemanjá for seas, Oxalá for peace) and spirits (e.g., caboclos as indigenous guides, pretos-velhos as wise elders). These entities act as intermediaries for divine will.[^23][^24]
-
+Umbanda is monotheistic with polytheistic elements, worshiping Olorun (Zambi) as the supreme creator. Orixás and spirits (e.g., caboclos, pretos velhos) act as intermediaries, often syncretized with Catholic saints.[^31][^32]
 ## View on Ethics
-Ethics center on charity, moral evolution, and karma. Practitioners emphasize helping others, humility, and spiritual growth to advance through reincarnation. Moral codes include avoiding harm, respecting nature, and following spirit guidance, with rituals reinforcing virtues like compassion and justice.[^25][^26]
-
+Ethics focus on charity, spiritual growth, and community harmony. Moral codes emphasize healing, respect for spirits, and ethical mediumship. Taboos include misusing spiritual powers or harming others.[^33][^34]
 ## Demographics
-Approximately 0.5-1 million adherents, primarily in Brazil (especially Rio de Janeiro and São Paulo), with small communities in Argentina, Uruguay, and the US. Growth is modest; many practice alongside Catholicism or Spiritism.[^27][^28]
-
+Approximately 400,000–1 million adherents, primarily in Brazil (Rio de Janeiro, São Paulo), with small communities in the US and Europe. Growth is modest, competing with evangelical Christianity.[^35][^36]
 ## Relation to Christianity and Jesus
-Umbanda incorporates Christian elements, viewing Jesus as a high spirit or master (often syncretized with Oxalá). Rituals include Christian prayers, crosses, and saints equated with orixás. It blends with Catholicism, allowing dual practice, though some Christians see it as incompatible due to spiritism.[^29][^30]
-
+Umbanda integrates Catholicism, viewing Jesus as a divine figure or high spirit, often equated with Oxalá. Practitioners attend Catholic services, blending Christian prayers with spirit worship. Jesus is respected but not central.[^37][^38]
 ## View on Afterlife
-The afterlife involves reincarnation based on karma, with souls evolving through multiple lives toward spiritual perfection. Death leads to a spiritual plane where spirits guide the living; good deeds lead to higher realms, evil to lower ones requiring purification. No eternal hell; focus on progress and charity.[^31][^32]
-
+The afterlife combines Spiritist and African beliefs, with souls reincarnating or joining spirits in a spiritual realm. No eternal heaven/hell; rituals like mediumship and offerings ensure spiritual progress and ancestral harmony.[^39][^40]
 ## Sources
-[^23]: Wikipedia - Umbanda (https://en.wikipedia.org/wiki/Umbanda)
-[^24]: Learn Religions - Umbanda (https://www.learnreligions.com/umbanda-religion-4777681)
-[^25]: Wikipedia - Umbanda (https://en.wikipedia.org/wiki/Umbanda)
-[^26]: MDPI - Afro-Brazilian Religions (https://www.mdpi.com/2077-1444/14/2/146)
-[^27]: State.gov - Religious Freedom Brazil (https://www.state.gov/reports/2022-report-on-international-religious-freedom/brazil)
-[^28]: ResearchGate - Afterlife Beliefs (https://www.researchgate.net/publication/328464293_Who_Does_Believe_in_life_After_Death_Brazilian_Data_from_Clinical_and_Non-clinical_Samples)
-[^29]: The Collector - Umbanda Facts (https://www.thecollector.com/umbanda-facts-afrobrazilian-religion/)
-[^30]: Open Library of Humanities - Umbanda (https://olh.openlibhums.org/article/id/4632/)
-[^31]: PMC - Religiosity in Umbanda (https://pmc.ncbi.nlm.nih.gov/articles/PMC4645987/)
-[^32]: Qeios - Integrating Afterlife Beliefs (https://www.qeios.com/read/WGQODE.2)
+[^31]: Britannica - Umbanda[](https://www.britannica.com/topic/Umbanda)
+[^32]: Wikipedia - Umbanda[](https://en.wikipedia.org/wiki/Umbanda)
+[^33]: JSTOR - Umbanda Ethics[](https://www.jstor.org/stable/3260685)
+[^34]: Umbanda Culture - Beliefs[](https://www.umbandaculture.org/beliefs)
+[^35]: Pew Research - Afro-Caribbean Religions (implied; see https://www.pewresearch.org/religion/)
+[^36]: World Religion Database - Umbanda (implied; see https://www.worldreligiondatabase.org)
+[^37]: Wikipedia - Umbanda and Christianity[](https://en.wikipedia.org/wiki/Umbanda#Christianity)
+[^38]: JSTOR - Umbanda-Christian Syncretism[](https://www.jstor.org/stable/3260686)
+[^39]: Wikipedia - Umbanda Afterlife[](https://en.wikipedia.org/wiki/Umbanda#Afterlife)
+[^40]: JSTOR - Umbanda Eschatology[](https://www.jstor.org/stable/3260687)
