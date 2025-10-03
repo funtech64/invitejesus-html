@@ -1,0 +1,4 @@
+extract_md_files_v1.py | success | 387 files | 179 duplicates | errors: None
+extract_md_files_v2.py | success | 387 files | 176 duplicates | errors: None
+extract_md_files_v3.py | success | 387 files | 0 duplicates | errors: None
+extract_md_files_v4.py | success | 387 files | 173 duplicates | errors: None
