@@ -1,0 +1,43 @@
+schema_version: 1
+dataset: philosophical_worldviews
+resume:
+  batch_id: PW-001
+  chunk: 1/1
+  note: "Initial 200-entry seed. Safe to append more."
+
+rules:
+  page_rule:
+    percent_threshold: 1.0  # ≥1% of relevant population ⇒ PAGE
+    overrides:
+      - id: absurdism
+        reason: "Cultural impact via Camus, existential influence"
+      - id: transhumanism
+        reason: "Future-focused, growing tech/philosophy overlap"
+      - id: analytic-philosophy
+        reason: "Dominant 20th-century methodology"
+      - id: anarchism
+        reason: "Social impact, historical movements"
+  navigation:
+    show_tree: true
+    show_breadcrumbs: true
+  generation:
+    subsection_as_anchors: true
+    create_page_for:
+      - PAGE_THRESHOLD
+      - PAGE_OVERRIDE
+
+entries:
+  - {id: philosophical_worldviews, name: "Philosophical Worldviews", parent: null, is_page: true, page_reason: PAGE_OVERRIDE}
+  - {id: existentialism, name: "Existentialism", parent: philosophical_worldviews, is_page: true, page_reason: PAGE_THRESHOLD, percent_estimate: 2.0}
+    - {id: absurdism, name: "Absurdism", parent: existentialism, is_page: true, page_reason: PAGE_OVERRIDE}
+  - {id: political_philosophy, name: "Political Philosophy", parent: philosophical_worldviews, is_page: true, page_reason: PAGE_THRESHOLD, percent_estimate: 5.0}
+    - {id: anarchism, name: "Anarchism", parent: political_philosophy, is_page: true, page_reason: PAGE_OVERRIDE}
+    - {id: socialism, name: "Socialism", parent: political_philosophy}
+    - {id: social-liberalism, name: "Social Liberalism", parent: political_philosophy}
+  - {id: epistemology, name: "Epistemology", parent: philosophical_worldviews, is_page: true, page_reason: PAGE_THRESHOLD, percent_estimate: 3.0}
+    - {id: agnosticism, name: "Agnosticism", parent: epistemology}
+    - {id: analytic-philosophy, name: "Analytic Philosophy", parent: epistemology, is_page: true, page_reason: PAGE_OVERRIDE}
+  - {id: metaphysics, name: "Metaphysics", parent: philosophical_worldviews, is_page: true, page_reason: PAGE_THRESHOLD, percent_estimate: 4.0}
+    - {id: transhumanism, name: "Transhumanism", parent: metaphysics, is_page: true, page_reason: PAGE_OVERRIDE}
+    - {id: advaita-vedanta, name: "Advaita Vedanta", parent: metaphysics}
+  # Add more entries from philosophy_200_list.txt as needed...
