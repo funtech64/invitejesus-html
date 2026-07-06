@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PositionNavStrip from '../../components/PositionNavStrip.astro';
+import PositionIntro from '../../components/PositionIntro.astro';
+import { getCollection } from 'astro:content';
+import positionsData from '../../data/positions.json';
+import { countEntriesByPosition } from '../../utils/positions';
+
+const entries = await getCollection('encyclopedia');
+const counts = countEntriesByPosition(entries);
+---
+
+<BaseLayout
+  title="12 Argument Positions"
+  description="Twelve apologetic positions building a cumulative case for the truth of John 14:6, each linked to tagged encyclopedia entries."
+>
+  <div class="container position-page">
+    <header class="article-header">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a> › <span>12 Argument Positions</span>
+      </nav>
+      <h1>12 Argument Positions</h1>
+      <p class="entry-meta">
+        Hub pages for each apologetic position. Encyclopedia entries appear by frontmatter tag — never duplicated here.
+      </p>
+    </header>
+
+    <PositionNavStrip />
+
+    <PositionIntro title="Overview" body={positionsData.logic.intro} />
+
+    <section class="position-hub-grid">
+      <h2>All positions</h2>
+      <ul class="position-hub-list">
+        {
+          positionsData.positions.map((position) => (
+            <li>
+              <a href={`/positions/${position.id}/`}>
+                <span class="position-hub-num">{Number(position.id)}</span>
+                <span class="position-hub-label">{position.label}</span>
+              </a>
+              <span class="position-hub-count">
+                {counts.get(position.id) ?? 0} entries
+              </span>
+            </li>
+          ))
+        }
+      </ul>
+      <p><a href="/positions/logic/">View logical flow →</a></p>
+    </section>
+  </div>
+</BaseLayout>

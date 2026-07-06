@@ -1,6 +1,8 @@
 ---
 title: "Buddhism"
 slug: "buddhism"
+tags:
+  - position-11
 ---
 text# Buddhism
 ## Introduction

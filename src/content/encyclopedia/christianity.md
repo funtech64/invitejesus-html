@@ -1,6 +1,10 @@
 ---
 title: "Christianity"
 slug: "christianity"
+tags:
+  - position-04
+  - position-05
+  - position-12
 ---
 text# Christianity
 ## Introduction

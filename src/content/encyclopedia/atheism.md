@@ -1,6 +1,9 @@
 ---
 title: "Atheism"
 slug: "atheism"
+tags:
+  - position-01
+  - position-11
 ---
 text# Atheism
 ## Introduction

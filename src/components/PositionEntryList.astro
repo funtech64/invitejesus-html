@@ -1,0 +1,39 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getEntryTitle } from '../utils/encyclopedia';
+import { positionTag } from '../utils/positions';
+
+interface Props {
+  entries: CollectionEntry<'encyclopedia'>[];
+  positionId: string;
+  positionLabel: string;
+}
+
+const { entries, positionId, positionLabel } = Astro.props;
+const tag = positionTag(positionId);
+---
+
+<section class="position-entries">
+  <h2>Encyclopedia entries for {positionLabel}</h2>
+  <p class="position-entries-meta">
+    {entries.length} {entries.length === 1 ? 'entry' : 'entries'} tagged with <code>{tag}</code> at build time.
+  </p>
+
+  {
+    entries.length > 0 ? (
+      <ul class="position-entry-list">
+        {entries.map((entry) => (
+          <li>
+            <a href={`/encyclopedia/${entry.id}/`}>{getEntryTitle(entry)}</a>
+            {entry.data.category && <span class="entry-meta">{entry.data.category}</span>}
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <div class="note">
+        No encyclopedia entries are tagged for this position yet. Add <code>{tag}</code> to an entry's
+        frontmatter <code>tags</code> array in <code>src/content/encyclopedia/</code>.
+      </div>
+    )
+  }
+</section>

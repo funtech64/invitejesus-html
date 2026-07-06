@@ -1,6 +1,8 @@
 ---
 title: "Hinduism"
 slug: "hinduism"
+tags:
+  - position-11
 ---
 text# Hinduism
 ## Introduction

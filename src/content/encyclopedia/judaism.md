@@ -1,6 +1,9 @@
 ---
 title: "Judaism"
 slug: "judaism"
+tags:
+  - position-10
+  - position-11
 ---
 text# Judaism
 ## Introduction

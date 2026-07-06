@@ -1,0 +1,64 @@
+---
+import { INDEX_LETTERS } from '../utils/encyclopedia';
+import { POSITION_IDS } from '../utils/positions';
+
+interface Props {
+  activePosition?: string;
+  activeLetter?: string;
+  showLogic?: boolean;
+}
+
+const { activePosition, activeLetter, showLogic = true } = Astro.props;
+
+const indexLetters = INDEX_LETTERS.filter((l) => l !== '#');
+---
+
+<nav class="position-nav-strip" aria-label="Position navigation">
+  <div class="position-nav-group">
+    {
+      POSITION_IDS.map((id) => (
+        <a
+          href={`/positions/${id}/`}
+          class:list={['position-nav-num', { active: activePosition === id }]}
+          aria-current={activePosition === id ? 'page' : undefined}
+        >
+          {Number(id)}
+        </a>
+      ))
+    }
+  </div>
+
+  {
+    showLogic && (
+      <>
+        <span class="position-nav-sep" aria-hidden="true">|</span>
+        <a
+          href="/positions/logic/"
+          class:list={['position-nav-logic', { active: activePosition === 'logic' }]}
+          aria-current={activePosition === 'logic' ? 'page' : undefined}
+        >
+          Logic
+        </a>
+      </>
+    )
+  }
+
+  <span class="position-nav-sep" aria-hidden="true">|</span>
+
+  <div class="position-nav-letters" aria-label="Encyclopedia A–Z">
+    {
+      indexLetters.map((letter) => {
+        const href = `/index/${letter.toLowerCase()}/`;
+        return (
+          <a
+            href={href}
+            class:list={['position-nav-letter', { active: activeLetter === letter }]}
+            aria-current={activeLetter === letter ? 'page' : undefined}
+          >
+            {letter}
+          </a>
+        );
+      })
+    }
+  </div>
+</nav>

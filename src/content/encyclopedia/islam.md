@@ -1,6 +1,9 @@
 ---
 title: "Islam"
 slug: "islam"
+tags:
+  - position-10
+  - position-11
 ---
 text# Islam
 ## Introduction
