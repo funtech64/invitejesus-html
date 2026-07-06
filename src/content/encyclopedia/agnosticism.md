@@ -1,6 +1,8 @@
 ---
 title: "Agnosticism"
 slug: "agnosticism"
+tags:
+  - position-01
 ---
 text# Agnosticism
 ## Introduction

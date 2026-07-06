@@ -1,0 +1,85 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PositionNavStrip from '../../components/PositionNavStrip.astro';
+import PositionIntro from '../../components/PositionIntro.astro';
+import PositionEntryList from '../../components/PositionEntryList.astro';
+import { getCollection } from 'astro:content';
+import {
+  POSITION_IDS,
+  getEntriesForPosition,
+  getLogicIntro,
+  getPositionMeta,
+  countEntriesByPosition,
+} from '../../utils/positions';
+import positionsData from '../../data/positions.json';
+
+export async function getStaticPaths() {
+  const positionPaths = POSITION_IDS.map((id) => ({
+    params: { position: id },
+  }));
+
+  return [...positionPaths, { params: { position: 'logic' } }];
+}
+
+const { position } = Astro.params;
+const allEntries = await getCollection('encyclopedia');
+const isLogic = position === 'logic';
+const logic = getLogicIntro();
+const counts = countEntriesByPosition(allEntries);
+
+const meta = !isLogic ? getPositionMeta(position!) : undefined;
+
+if (!isLogic && !meta) {
+  throw new Error(`Unknown position: ${position}`);
+}
+
+const taggedEntries = !isLogic ? getEntriesForPosition(allEntries, position!) : [];
+const pageTitle = isLogic ? 'Logical Flow' : `${meta!.title}: ${meta!.label}`;
+const introTitle = isLogic ? logic.title : 'Introduction';
+const introBody = isLogic ? logic.intro : meta!.intro;
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={isLogic ? logic.intro : meta!.intro}
+>
+  <div class="container position-page">
+    <header class="article-header">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a> ›
+        <a href="/positions/">12 Argument Positions</a> ›
+        <span>{isLogic ? 'Logic' : meta!.title}</span>
+      </nav>
+      <h1>{isLogic ? logic.title : meta!.label}</h1>
+      {!isLogic && <p class="entry-meta">{meta!.title}</p>}
+    </header>
+
+    <PositionNavStrip activePosition={position} />
+
+    <PositionIntro title={introTitle} body={introBody} />
+
+    {
+      isLogic ? (
+        <section class="position-logic-flow">
+          <h2>Position sequence</h2>
+          <ol class="position-logic-list">
+            {positionsData.positions.map((p) => (
+              <li>
+                <a href={`/positions/${p.id}/`}>
+                  <strong>{Number(p.id)}.</strong> {p.label}
+                </a>
+                <span class="position-hub-count">{counts.get(p.id) ?? 0} tagged entries</span>
+              </li>
+            ))}
+          </ol>
+        </section>
+      ) : (
+        <PositionEntryList
+          entries={taggedEntries}
+          positionId={position!}
+          positionLabel={meta!.label}
+        />
+      )
+    }
+  </div>
+</BaseLayout>

@@ -1,0 +1,80 @@
+{
+  "logic": {
+    "title": "Logical Flow",
+    "intro": "The twelve argument positions are not isolated essays. Each one answers a question raised by the one before it, and together they form a cumulative case for the truth of John 14:6. Use the numbered links below to move through the sequence, or open any position directly to see which encyclopedia entries have been assigned to it."
+  },
+  "positions": [
+    {
+      "id": "01",
+      "title": "Position 1",
+      "label": "The Case for God's Existence",
+      "intro": "Edit this introduction in src/data/positions.json. Encyclopedia entries tagged with position-01 will appear in the list below — linked only, never duplicated."
+    },
+    {
+      "id": "02",
+      "title": "Position 2",
+      "label": "Fulfilled Prophecy & Miracles",
+      "intro": "Edit this introduction in src/data/positions.json. Assign encyclopedia entries by adding position-02 to their frontmatter tags."
+    },
+    {
+      "id": "03",
+      "title": "Position 3",
+      "label": "Reliability of the New Testament",
+      "intro": "Edit this introduction in src/data/positions.json. Tagged entries link to the encyclopedia; their full articles are not copied here."
+    },
+    {
+      "id": "04",
+      "title": "Position 4",
+      "label": "The Resurrection of Jesus",
+      "intro": "Edit this introduction in src/data/positions.json. Use the tag position-04 in encyclopedia frontmatter to surface related entries below."
+    },
+    {
+      "id": "05",
+      "title": "Position 5",
+      "label": "The Radical Claims of Jesus",
+      "intro": "Edit this introduction in src/data/positions.json."
+    },
+    {
+      "id": "06",
+      "title": "Position 6",
+      "label": "The Fine-Tuned Universe",
+      "intro": "Edit this introduction in src/data/positions.json."
+    },
+    {
+      "id": "07",
+      "title": "Position 7",
+      "label": "The Moral Law Within",
+      "intro": "Edit this introduction in src/data/positions.json."
+    },
+    {
+      "id": "08",
+      "title": "Position 8",
+      "label": "The Problem of Evil & Suffering",
+      "intro": "Edit this introduction in src/data/positions.json."
+    },
+    {
+      "id": "09",
+      "title": "Position 9",
+      "label": "The Uniqueness of Grace",
+      "intro": "Edit this introduction in src/data/positions.json."
+    },
+    {
+      "id": "10",
+      "title": "Position 10",
+      "label": "Pluralism & Exclusivity",
+      "intro": "Edit this introduction in src/data/positions.json."
+    },
+    {
+      "id": "11",
+      "title": "Position 11",
+      "label": "Survey of Worldviews",
+      "intro": "Edit this introduction in src/data/positions.json. This position draws on the broadest set of encyclopedia entries — tag world religions and worldviews with position-11 as you assign them."
+    },
+    {
+      "id": "12",
+      "title": "Position 12",
+      "label": "The Invitation — John 14:6",
+      "intro": "Edit this introduction in src/data/positions.json. This is the culminating position where the cumulative case arrives at the claim of John 14:6."
+    }
+  ]
+}
