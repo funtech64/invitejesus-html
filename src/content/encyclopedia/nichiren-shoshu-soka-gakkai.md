@@ -1,3 +1,7 @@
+---
+title: "Nichiren Shōshū/Soka Gakkai"
+slug: "nichiren-shoshu-soka-gakkai"
+---
 text# Nichiren Shōshū/Soka Gakkai
 ## Introduction
 Nichiren Shōshū and Soka Gakkai are Japanese Buddhist movements based on the 13th-century teachings of Nichiren, emphasizing chanting the Lotus Sutra (Nam-myoho-renge-kyo) for enlightenment. Soka Gakkai, a lay organization, split from Nichiren Shōshū in 1991.

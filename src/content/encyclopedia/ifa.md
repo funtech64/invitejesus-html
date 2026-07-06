@@ -1,3 +1,7 @@
+---
+title: "Ifá"
+slug: "ifa"
+---
 text# Ifá
 ## Introduction
 Ifá, a divination system within Yoruba religion, originating in Nigeria, focuses on wisdom from Orunmila for spiritual guidance.

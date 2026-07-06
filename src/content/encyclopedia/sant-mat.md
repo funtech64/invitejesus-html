@@ -1,3 +1,7 @@
+---
+title: "Sant Mat"
+slug: "sant-mat"
+---
 text# Sant Mat
 ## Introduction
 Sant Mat is a spiritual movement originating in medieval India, emphasizing devotion to a formless God through meditation and ethical living. It is associated with figures like Kabir and Guru Nanak, with modern branches like Radha Soami.

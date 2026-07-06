@@ -1,3 +1,7 @@
+---
+title: "Maya"
+slug: "maya"
+---
 text# Maya
 ## Introduction
 Maya religion is the indigenous spiritual tradition of the Maya people, practiced in Mesoamerica (circa 2000 BCE–1500 CE) and preserved in texts like the *Popol Vuh*. It emphasizes cosmic balance, deities, and rituals, with modern revivals.

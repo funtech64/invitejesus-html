@@ -1,3 +1,7 @@
+---
+title: "Candomblé"
+slug: "candomble"
+---
 text# Candomblé
 ## Introduction
 Candomblé, developed in Brazil from Yoruba traditions, is a syncretic faith blending Orisha worship with Catholicism.

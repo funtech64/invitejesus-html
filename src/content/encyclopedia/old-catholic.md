@@ -1,3 +1,7 @@
+---
+title: "Old Catholic"
+slug: "old-catholic"
+---
 text# Old Catholic
 ## Introduction
 The Old Catholic Church, emerging in the 1870s in Europe, is a Christian denomination rejecting papal infallibility while preserving Catholic liturgy and sacraments. Formed after the First Vatican Council, it emphasizes autonomy, local governance, and traditional worship. Congregations, led by bishops, practice the Eucharist and baptism, appealing to those seeking Catholicism without centralized papal authority. Old Catholics maintain apostolic succession and engage in ecumenical dialogue, balancing tradition with progressive values like inclusivity.

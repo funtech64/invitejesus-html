@@ -1,3 +1,7 @@
+---
+title: "Summit Lighthouse"
+slug: "summit-lighthouse"
+---
 text# Summit Lighthouse
 ## Introduction
 Summit Lighthouse, founded in 1958 by Mark and Elizabeth Prophet in the US, is a spiritual movement emphasizing Ascended Masters and spiritual teachings.

@@ -1,3 +1,7 @@
+---
+title: "Aztec"
+slug: "aztec"
+---
 text# Aztec
 ## Introduction
 Aztec religion, practiced in Mesoamerica (circa 1300–1521 CE), was a polytheistic tradition centered on deities, sacrifice, and cosmic order. Preserved in codices, it influenced Mesoamerican culture until Spanish conquest.

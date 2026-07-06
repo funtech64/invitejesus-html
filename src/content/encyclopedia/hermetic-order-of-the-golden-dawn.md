@@ -1,3 +1,7 @@
+---
+title: "Hermetic Order of the Golden Dawn"
+slug: "hermetic-order-of-the-golden-dawn"
+---
 text# Hermetic Order of the Golden Dawn
 ## Introduction
 The Hermetic Order of the Golden Dawn, founded in 1888 in the UK, is an esoteric movement blending occultism, Kabbalah, and ritual magic for spiritual enlightenment.

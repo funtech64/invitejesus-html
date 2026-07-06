@@ -1,3 +1,7 @@
+---
+title: "Mahikari"
+slug: "mahikari"
+---
 text# Mahikari
 ## Introduction
 Mahikari, founded in 1959 by Yoshikazu Okada in Japan, is a new religious movement emphasizing divine light healing (Mahikari) and spiritual purification.

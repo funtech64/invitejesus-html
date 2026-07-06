@@ -1,3 +1,7 @@
+---
+title: "Rodnovery"
+slug: "rodnovery"
+---
 text# Rodnovery
 ## Introduction
 Rodnovery, revived in the 20th century in Eastern Europe, is a neo-pagan religion based on Slavic mythology, emphasizing nature and ancestral worship.

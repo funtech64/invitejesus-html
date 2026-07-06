@@ -1,3 +1,7 @@
+---
+title: "Native American Religions"
+slug: "native-american-religions"
+---
 # Native American Religions
 
 ## Introduction

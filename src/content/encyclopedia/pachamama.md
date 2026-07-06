@@ -1,3 +1,7 @@
+---
+title: "Pachamama"
+slug: "pachamama"
+---
 text# Pachamama
 ## Introduction
 Pachamama devotion is the traditional Andean religion venerating Pachamama, the earth mother, as the provider of fertility and sustenance. Practiced by Quechua and Aymara in Peru and Bolivia, it involves offerings (pagos) of coca leaves and alcohol at sacred sites. Festivals like August's Pachamama Month celebrate harvests. Despite colonial suppression, it persists, blending with Catholicism in rituals.

@@ -1,3 +1,7 @@
+---
+title: "Aladura Churches"
+slug: "aladura-churches"
+---
 text# Aladura Churches
 ## Introduction
 Aladura Churches are a group of African Independent Churches founded in Nigeria in the early 20th century, emphasizing prayer (aladura means "prayer" in Yoruba), healing, and Africanized Christianity. Key denominations include the Cherubim and Seraphim and the Celestial Church of Christ.

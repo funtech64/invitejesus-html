@@ -1,3 +1,7 @@
+---
+title: "Roman"
+slug: "roman"
+---
 text# Roman
 ## Introduction
 Ancient Roman religion, practiced from circa 753 BCE to 400 CE, was a polytheistic tradition centered on gods like Jupiter and Mars, blending Etruscan and Greek influences. It emphasized civic rituals and state worship.

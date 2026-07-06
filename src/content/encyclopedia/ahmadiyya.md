@@ -1,3 +1,7 @@
+---
+title: "Ahmadiyya"
+slug: "ahmadiyya"
+---
 text# Ahmadiyya
 ## Introduction
 Ahmadiyya is an Islamic movement founded in 1889 by Mirza Ghulam Ahmad in India. It emphasizes the revival of Islam and claims Ahmad as the promised Messiah and Mahdi, causing controversy among mainstream Muslims.

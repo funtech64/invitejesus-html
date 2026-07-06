@@ -1,3 +1,7 @@
+---
+title: "Church of Satan (LaVeyan)"
+slug: "church-of-satan"
+---
 text# Church of Satan (LaVeyan)
 ## Introduction
 The Church of Satan, founded in 1966 by Anton LaVey in the US, promotes atheistic Satanism as a philosophy of individualism and self-indulgence.

@@ -1,3 +1,7 @@
+---
+title: "Ryukyuan Religion"
+slug: "ryukyuan-religion"
+---
 text# Ryukyuan Religion
 ## Introduction
 Ryukyuan religion is the indigenous spirituality of the Ryukyu Islands (Okinawa, Japan), blending Shinto, animism, and ancestor worship. It emphasizes rituals led by priestesses (noro) to honor kami and ancestors, maintaining cultural identity.

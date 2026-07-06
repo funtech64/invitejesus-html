@@ -1,3 +1,7 @@
+---
+title: "Chaos Magick"
+slug: "chaos-magick"
+---
 text# Chaos Magick
 ## Introduction
 Chaos Magick is a modern occult practice, emerging in the 1970s in the UK, emphasizing pragmatic magic and belief as tools for personal transformation. It is non-dogmatic, drawing from various traditions without fixed theology.

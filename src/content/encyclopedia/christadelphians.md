@@ -1,3 +1,7 @@
+---
+title: "Christadelphians"
+slug: "christadelphians"
+---
 text# Christadelphians
 ## Introduction
 The Christadelphians, founded in the 1840s by John Thomas in the US, are a Christian restorationist group emphasizing biblical literalism and non-trinitarian beliefs. Rejecting mainstream creeds, they focus on scripture study, communal worship, and preparation for Christ’s return. Members, known as “brethren,” meet in small congregations (*ecclesias*) for Bible-based services, often in homes or halls. They emphasize baptism by immersion and a disciplined lifestyle, avoiding military service and political involvement due to their apocalyptic worldview. The group emerged during the Second Great Awakening, appealing to those seeking a return to early Christian practices.

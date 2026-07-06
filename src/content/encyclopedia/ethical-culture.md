@@ -1,3 +1,7 @@
+---
+title: "Ethical Culture"
+slug: "ethical-culture"
+---
 text# Ethical Culture
 ## Introduction
 Ethical Culture, founded in 1876 by Felix Adler in the US, is a non-theistic movement emphasizing ethical living and community over religious doctrine.

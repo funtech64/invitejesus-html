@@ -1,3 +1,7 @@
+---
+title: "Alawites"
+slug: "alawites"
+---
 text# Alawites
 ## Introduction
 Alawites, also known as Alawis or Nusayris, are a syncretic Islamic sect originating in the 9th century in the Middle East, founded by Ibn Nusayr. Rooted in Shia Islam, it incorporates Gnostic and Christian elements, primarily practiced in Syria.

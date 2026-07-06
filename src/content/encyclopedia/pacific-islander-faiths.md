@@ -1,3 +1,7 @@
+---
+title: "Pacific Islander Traditional Religions"
+slug: "pacific-islander-faiths"
+---
 text# Pacific Islander Traditional Religions
 ## Introduction
 Pacific Islander traditional religions include the diverse spiritual practices of Polynesian, Melanesian, and Micronesian peoples (e.g., Hawaiian, Samoan, Tongan). They emphasize gods, ancestors, and nature, expressed through chants, dances, and communal rituals.

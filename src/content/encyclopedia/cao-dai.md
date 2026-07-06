@@ -1,3 +1,7 @@
+---
+title: "Cao Dai"
+slug: "cao-dai"
+---
 text# Cao Dai
 ## Introduction
 Cao Dai is a Vietnamese syncretic religion founded in 1926 by Ngô Văn Chiêu, blending Buddhism, Confucianism, Taoism, and Christianity. It emphasizes unity and divine revelation.

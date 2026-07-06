@@ -1,3 +1,7 @@
+---
+title: "Scientology"
+slug: "scientology"
+---
 text# Scientology
 ## Introduction
 Scientology is a new religious movement founded in 1952 by L. Ron Hubbard in the US, emphasizing spiritual self-discovery through auditing and the *Dianetics* system.

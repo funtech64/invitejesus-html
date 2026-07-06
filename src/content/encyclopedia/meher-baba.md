@@ -1,3 +1,7 @@
+---
+title: "Meher Baba Movement"
+slug: "meher-baba"
+---
 text# Meher Baba Movement
 ## Introduction
 The Meher Baba Movement, founded in the 1920s by Meher Baba in India, is a spiritual movement emphasizing divine love and universal spirituality. Meher Baba, considered an avatar, taught that all religions lead to God through love and service. Centers in India, the US, and Australia offer meditation, retreats, and charity work. The movement appeals to seekers of mystical unity, blending Sufi, Hindu, and Christian elements, with Baba’s silence as a hallmark.

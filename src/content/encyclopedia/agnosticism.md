@@ -1,3 +1,7 @@
+---
+title: "Agnosticism"
+slug: "agnosticism"
+---
 text# Agnosticism
 ## Introduction
 Agnosticism, coined by Thomas Huxley in the 19th century, is a worldview withholding judgment on the existence of gods due to insufficient evidence.

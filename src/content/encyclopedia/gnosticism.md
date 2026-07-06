@@ -1,3 +1,7 @@
+---
+title: "Gnosticism (Modern Revivals)"
+slug: "gnosticism"
+---
 text# Gnosticism (Modern Revivals)
 ## Introduction
 Modern Gnosticism is a revival of ancient Gnostic traditions (1st–4th century CE), emerging in the 19th–20th centuries. It emphasizes esoteric knowledge (gnosis) for spiritual liberation, blending Christian, Jewish, and mystical elements.

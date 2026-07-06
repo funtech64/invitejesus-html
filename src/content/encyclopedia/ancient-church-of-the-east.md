@@ -1,3 +1,7 @@
+---
+title: "Ancient Church of the East"
+slug: "ancient-church-of-the-east"
+---
 text# Ancient Church of the East
 ## Introduction
 The Ancient Church of the East, splitting from the Assyrian Church in 1968, is a Christian denomination preserving early traditions.

@@ -1,3 +1,7 @@
+---
+title: "Ordo Templi Orientis"
+slug: "ordo-templi-orientis"
+---
 text# Ordo Templi Orientis
 ## Introduction
 Ordo Templi Orientis (OTO), founded in 1895 in Germany, is an esoteric movement emphasizing ritual magic and spiritual liberation, later led by Aleister Crowley.

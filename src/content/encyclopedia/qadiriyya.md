@@ -1,3 +1,7 @@
+---
+title: "Qadiriyya"
+slug: "qadiriyya"
+---
 text# Qadiriyya
 ## Introduction
 The Qadiriyya Order, founded in the 12th century by Abdul Qadir Gilani in Iraq, is a Sufi order emphasizing devotion and spiritual connection within Sunni Islam.

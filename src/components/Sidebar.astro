@@ -1,0 +1,63 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getEntryTitle } from '../utils/encyclopedia';
+
+interface Props {
+  entries: CollectionEntry<'encyclopedia'>[];
+  currentSlug?: string;
+}
+
+const { entries, currentSlug } = Astro.props;
+
+const categories = new Map<string, CollectionEntry<'encyclopedia'>[]>();
+
+for (const entry of entries) {
+  const category = entry.data.category ?? 'General';
+  const list = categories.get(category) ?? [];
+  list.push(entry);
+  categories.set(category, list);
+}
+
+const sortedCategories = [...categories.entries()].sort(([a], [b]) =>
+  a.localeCompare(b),
+);
+---
+
+<aside class="sidebar" aria-label="Encyclopedia sidebar">
+  <section class="sidebar-block">
+    <h2>Browse</h2>
+    <ul class="sidebar-links">
+      <li><a href="/encyclopedia/">All entries</a></li>
+      <li><a href="/index/a/">A–Z index</a></li>
+      <li><a href="/search/">Search</a></li>
+    </ul>
+  </section>
+
+  {
+    sortedCategories.length > 1 && (
+      <section class="sidebar-block">
+        <h2>Categories</h2>
+        {sortedCategories.map(([category, items]) => (
+          <details class="sidebar-category" open={items.some((e) => e.id === currentSlug)}>
+            <summary>{category} ({items.length})</summary>
+            <ul>
+              {items
+                .sort((a, b) => getEntryTitle(a).localeCompare(getEntryTitle(b)))
+                .slice(0, 12)
+                .map((entry) => (
+                  <li>
+                    <a
+                      href={`/encyclopedia/${entry.id}/`}
+                      aria-current={entry.id === currentSlug ? 'page' : undefined}
+                    >
+                      {getEntryTitle(entry)}
+                    </a>
+                  </li>
+                ))}
+            </ul>
+          </details>
+        ))}
+      </section>
+    )
+  }
+</aside>

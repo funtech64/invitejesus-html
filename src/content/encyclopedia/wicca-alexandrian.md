@@ -1,3 +1,7 @@
+---
+title: "Wicca (Alexandrian)"
+slug: "wicca-alexandrian"
+---
 text# Wicca (Alexandrian)
 ## Introduction
 Alexandrian Wicca, founded in the 1960s by Alex Sanders in the UK, is a neo-pagan religion derived from Gardnerian Wicca, emphasizing ceremonial magic and ritual.

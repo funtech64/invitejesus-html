@@ -1,3 +1,7 @@
+---
+title: "Santhal & Tribal (Northeast India)"
+slug: "santhal-tribal"
+---
 text# Santhal & Tribal (Northeast India)
 ## Introduction
 Santhal and tribal religions of Northeast India encompass the indigenous beliefs of groups like the Santhal, Khasi, and Munda, centered on animism, ancestor worship, and nature reverence. These traditions emphasize oral histories, rituals, and community cohesion.

@@ -1,3 +1,7 @@
+---
+title: "Church of All Worlds"
+slug: "church-of-all-worlds"
+---
 text# Church of All Worlds
 ## Introduction
 The Church of All Worlds, founded in 1962 by Oberon Zell-Ravenheart in the US, is a neo-pagan movement inspired by Robert A. Heinlein’s novel *Stranger in a Strange Land*. Emphasizing pantheism and ecological spirituality, it promotes “grokking” (deep understanding) and communal living. Rituals include circles, festivals, and nature worship, appealing to those seeking alternative spirituality with a focus on interconnectedness and creativity.

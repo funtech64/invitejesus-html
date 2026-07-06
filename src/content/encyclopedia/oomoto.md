@@ -1,3 +1,7 @@
+---
+title: "Oomoto"
+slug: "oomoto"
+---
 text# Oomoto
 ## Introduction
 Oomoto, founded in 1892 by Deguchi Nao in Japan, is a new religious movement blending Shinto and spiritualism, emphasizing world peace and divine inspiration.

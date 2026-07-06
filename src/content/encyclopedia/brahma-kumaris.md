@@ -1,3 +1,7 @@
+---
+title: "Brahma Kumaris"
+slug: "brahma-kumaris"
+---
 text# Brahma Kumaris
 ## Introduction
 The Brahma Kumaris, founded in 1937 by Lekhraj Kripalani in India, is a spiritual movement emphasizing meditation and spiritual knowledge to achieve self-realization. Rooted in Hindu philosophy, it teaches that souls are eternal and God is a supreme soul, Shiva. Members, often women-led, practice Raja Yoga meditation and live ascetically, wearing white to symbolize purity. Centers worldwide offer courses on positive thinking and stress-free living. The movement’s apocalyptic worldview anticipates a new golden age, appealing to those seeking inner peace and transformation.

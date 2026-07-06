@@ -1,3 +1,7 @@
+---
+title: "Church of the SubGenius"
+slug: "church-of-the-subgenius"
+---
 text# Church of the SubGenius
 ## Introduction
 The Church of the SubGenius, founded in 1979 by Ivan Stang in the US, is a satirical religion blending parody, science fiction, and spirituality, centered on J.R. “Bob” Dobbs.

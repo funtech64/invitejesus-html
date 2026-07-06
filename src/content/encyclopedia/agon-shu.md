@@ -1,3 +1,7 @@
+---
+title: "Agon Shu"
+slug: "agon-shu"
+---
 text# Agon Shu
 ## Introduction
 Agon Shu, founded in 1978 by Seiyu Kiriyama in Japan, is a Buddhist-derived new religious movement emphasizing the Agama sutras and esoteric rituals for enlightenment.

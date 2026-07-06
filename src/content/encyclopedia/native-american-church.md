@@ -1,3 +1,7 @@
+---
+title: "Native American Church"
+slug: "native-american-church"
+---
 text# Native American Church
 ## Introduction
 The Native American Church, emerging in the 19th century in the US, blends indigenous spirituality with Christianity, emphasizing peyote rituals.

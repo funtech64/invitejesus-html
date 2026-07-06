@@ -1,3 +1,7 @@
+---
+title: "Christian Science"
+slug: "christian-science"
+---
 text# Christian Science
 ## Introduction
 Christian Science, founded in 1879 by Mary Baker Eddy in the US, is a religious movement emphasizing healing through prayer and divine understanding, based on *Science and Health*.

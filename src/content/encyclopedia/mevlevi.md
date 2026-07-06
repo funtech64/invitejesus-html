@@ -1,3 +1,7 @@
+---
+title: "Mevlevi"
+slug: "mevlevi"
+---
 text# Mevlevi
 ## Introduction
 The Mevlevi Order, founded in the 13th century by followers of Rumi in Turkey, is a Sufi order emphasizing spiritual love and whirling dance within Sunni Islam.

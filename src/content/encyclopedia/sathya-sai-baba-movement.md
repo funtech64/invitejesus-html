@@ -1,3 +1,7 @@
+---
+title: "Sathya Sai Baba Movement"
+slug: "sathya-sai-baba-movement"
+---
 text# Sathya Sai Baba Movement
 ## Introduction
 The Sathya Sai Baba Movement, founded in the 1940s by Sathya Sai Baba in India, emphasizes devotion, service, and universal spirituality, rooted in Hindu teachings.

@@ -1,3 +1,7 @@
+---
+title: "Theosophy"
+slug: "theosophy"
+---
 text# Theosophy
 ## Introduction
 Theosophy, founded in 1875 by Helena Blavatsky in the US, is a spiritual movement blending Eastern and Western esotericism, emphasizing universal brotherhood and hidden knowledge.

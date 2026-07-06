@@ -1,3 +1,7 @@
+---
+title: "Greek"
+slug: "greek"
+---
 text# Greek
 ## Introduction
 Ancient Greek religion, practiced from circa 1200 BCE to 300 CE, was a polytheistic tradition centered on the Olympian gods and civic rituals. It profoundly influenced Western culture through its myths, philosophy, and art.

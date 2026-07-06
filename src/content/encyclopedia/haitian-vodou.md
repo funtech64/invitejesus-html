@@ -1,3 +1,7 @@
+---
+title: "Haitian Vodou"
+slug: "haitian-vodou"
+---
 text# Haitian Vodou
 ## Introduction
 Haitian Vodou is a syncretic religion blending West African Vodun with Catholicism, developed during slavery. It involves lwa worship, rituals, and possession ceremonies.

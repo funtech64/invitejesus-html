@@ -1,3 +1,7 @@
+---
+title: "Assyrian Church of the East"
+slug: "assyrian-church-of-the-east"
+---
 text# Assyrian Church of the East
 ## Introduction
 The Assyrian Church of the East, founded in the 1st century in Mesopotamia, is a Christian denomination emphasizing early Christian traditions.

@@ -1,3 +1,7 @@
+---
+title: "Objectivism"
+slug: "objectivism"
+---
 text# Objectivism
 ## Introduction
 Objectivism is a philosophical system developed by Ayn Rand in the 20th century, emphasizing reason, individualism, and laissez-faire capitalism. While not a religion, it functions as a worldview for some, with ethical and metaphysical implications.

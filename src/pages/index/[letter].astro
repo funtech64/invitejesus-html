@@ -1,0 +1,61 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AlphaIndex from '../../components/AlphaIndex.astro';
+import { getCollection } from 'astro:content';
+import { getEntryLetter, getEntryTitle, getSortKey, INDEX_LETTERS } from '../../utils/encyclopedia';
+
+export async function getStaticPaths() {
+  const entries = (await getCollection('encyclopedia')).filter((entry) => !entry.data.draft);
+
+  const paths = INDEX_LETTERS.map((letter) => {
+    const param = letter === '#' ? 'other' : letter.toLowerCase();
+    const letterEntries = entries
+      .filter((entry) => getEntryLetter(entry) === letter)
+      .sort((a, b) => getSortKey(a).localeCompare(getSortKey(b)));
+
+    return {
+      params: { letter: param },
+      props: { letter, letterEntries },
+    };
+  });
+
+  return paths;
+}
+
+const { letter, letterEntries } = Astro.props;
+const label = letter === '#' ? 'Other' : letter;
+---
+
+<BaseLayout
+  title={`Index: ${label}`}
+  description={`Encyclopedia entries starting with ${label}.`}
+>
+  <div class="container" style="padding: 40px 24px 72px;">
+    <header class="article-header">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a> ›
+        <a href="/encyclopedia/">Encyclopedia</a> ›
+        <span>Index {label}</span>
+      </nav>
+      <h1>Index: {label}</h1>
+      <p class="entry-meta">{letterEntries.length} entries</p>
+    </header>
+
+    <AlphaIndex entries={await getCollection('encyclopedia')} activeLetter={letter} />
+
+    {
+      letterEntries.length > 0 ? (
+        <ul class="entry-list">
+          {letterEntries.map((entry) => (
+            <li>
+              <a href={`/encyclopedia/${entry.id}/`}>{getEntryTitle(entry)}</a>
+              {entry.data.category && <span class="entry-meta">{entry.data.category}</span>}
+            </li>
+          ))}
+        </ul>
+      ) : (
+        <p class="note">No encyclopedia entries begin with this letter yet.</p>
+      )
+    }
+  </div>
+</BaseLayout>

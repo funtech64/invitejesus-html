@@ -1,3 +1,7 @@
+---
+title: "Heathenry (The Troth)"
+slug: "heathenry-troth"
+---
 text# Heathenry (The Troth)
 ## Introduction
 Heathenry (The Troth), founded in 1987 in the US, is a neo-pagan group reviving Norse spirituality, emphasizing inclusivity and scholarship.

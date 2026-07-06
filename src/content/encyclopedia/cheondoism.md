@@ -1,3 +1,7 @@
+---
+title: "Cheondoism"
+slug: "cheondoism"
+---
 text# Cheondoism
 ## Introduction
 Cheondoism (Cheondogyo) is a Korean religion founded in 1860 by Choe Je-u, blending Confucianism, Taoism, and shamanism. It emphasizes human divinity and social reform, emerging as a response to Western influence.

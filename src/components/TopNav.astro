@@ -1,0 +1,31 @@
+---
+import navigation from '../data/navigation.json';
+
+const currentPath = Astro.url.pathname.replace(/\/$/, '') || '/';
+
+function isActive(href: string) {
+  const normalized = href.replace(/\/$/, '') || '/';
+  if (normalized === '/') return currentPath === '/';
+  return currentPath === normalized || currentPath.startsWith(`${normalized}/`);
+}
+---
+
+<header class="site-nav">
+  <div class="container nav-inner">
+    <a class="brand" href="/">Invite<span>Jesus</span></a>
+    <nav aria-label="Primary">
+      <ul class="nav-links">
+        {
+          navigation.map((item) => (
+            <li>
+              <a href={item.href} aria-current={isActive(item.href) ? 'page' : undefined}>
+                {item.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+    <a class="nav-search" href="/search/" aria-label="Search the site">Search</a>
+  </div>
+</header>

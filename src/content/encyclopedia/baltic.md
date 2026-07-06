@@ -1,3 +1,7 @@
+---
+title: "Baltic"
+slug: "baltic"
+---
 text# Baltic
 ## Introduction
 Baltic religion, practiced by Baltic peoples (e.g., Lithuanians, Latvians) from circa 1000 BCE–1400 CE, was a polytheistic tradition centered on deities like Perkūnas and Žemyna. It emphasizes nature and is preserved in folklore.

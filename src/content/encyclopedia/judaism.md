@@ -1,3 +1,7 @@
+---
+title: "Judaism"
+slug: "judaism"
+---
 text# Judaism
 ## Introduction
 Judaism is one of the oldest monotheistic religions, originating over 3,000 years ago with the Israelites. Based on the Torah and Talmud, it emphasizes covenant with God, ethical living, and cultural identity through diverse traditions (e.g., Orthodox, Reform).

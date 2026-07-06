@@ -1,3 +1,7 @@
+---
+title: "Divine Light Mission"
+slug: "divine-light-mission"
+---
 text# Divine Light Mission
 ## Introduction
 Divine Light Mission, founded in 1960 by Hans Ji Maharaj in India, is a spiritual movement emphasizing meditation and divine knowledge, now led by Prem Rawat.

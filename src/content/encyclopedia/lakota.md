@@ -1,3 +1,7 @@
+---
+title: "Lakota"
+slug: "lakota"
+---
 text# Lakota
 ## Introduction
 Lakota religion is the indigenous spiritual tradition of the Lakota Sioux people in the Great Plains of the United States. Centered on Wakan Tanka (Great Spirit), it emphasizes ceremonies like the Sun Dance and Vision Quest for spiritual connection.

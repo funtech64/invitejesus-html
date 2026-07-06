@@ -1,3 +1,7 @@
+---
+title: "Swedenborgians"
+slug: "swedenborgians"
+---
 text# Swedenborgians
 ## Introduction
 Swedenborgianism, or the New Church, is a Christian movement founded in the 18th century by Emanuel Swedenborg in Sweden. It emphasizes mystical interpretations of the Bible and spiritual insights from Swedenborg’s visions.

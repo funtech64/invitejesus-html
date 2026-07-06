@@ -1,3 +1,7 @@
+---
+title: "Quakers (Religious Society of Friends)"
+slug: "quakers"
+---
 text# Quakers (Religious Society of Friends)
 ## Introduction
 Quakers, founded in the 17th century by George Fox in England, emphasize direct spiritual experience and peace within Christianity.

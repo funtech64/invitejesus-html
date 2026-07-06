@@ -1,0 +1,66 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+---
+
+<BaseLayout
+  title="The Way, the Truth, and the Life"
+  description="An evangelical apologetics study centered on John 14:6, supported by an encyclopedia of world religions and worldviews."
+>
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">Evangelical apologetics for John 14:6</p>
+      <blockquote class="verse">
+        “I am the way, <span class="accent">the truth</span>, and the life.
+        No one comes to the Father except through me.”
+      </blockquote>
+      <p class="verse-ref">John 14:6</p>
+      <p>
+        InviteJesus is a rigorous, respectful study of the boldest claim in history —
+        tested against the world's religions and worldviews, and defended through twelve
+        converging apologetic positions.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href="/encyclopedia/">Explore the Encyclopedia</a>
+        <a class="btn btn-ghost" href="/positions/">12 Argument Positions</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="band">
+    <div class="container">
+      <div class="section-head">
+        <p class="kicker">Mission</p>
+        <h2>Apologetics first, encyclopedia in service</h2>
+        <p>
+          The encyclopedia is not the destination. It provides the context against which
+          the case for John 14:6 is made — fairly described traditions and worldviews
+          that the site's apologetic positions engage.
+        </p>
+      </div>
+      <div class="card-grid">
+        <article class="card">
+          <h3>Encyclopedia</h3>
+          <p>
+            {
+              (await getCollection('encyclopedia')).length
+            } entries on religions, movements, and worldviews — a reference layer for the apologetic case.
+          </p>
+          <p><a href="/encyclopedia/">Browse entries →</a></p>
+        </article>
+        <article class="card">
+          <h3>12 Argument Positions</h3>
+          <p>
+            The owner's twelve apologetic positions, building a cumulative case for the truth of John 14:6.
+          </p>
+          <p><a href="/positions/">View hub (coming soon) →</a></p>
+        </article>
+        <article class="card">
+          <h3>Search</h3>
+          <p>Full-text search across encyclopedia entries, powered by Pagefind.</p>
+          <p><a href="/search/">Search the site →</a></p>
+        </article>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,3 +1,7 @@
+---
+title: "Polynesian Traditions"
+slug: "polynesian-traditions"
+---
 text# Polynesian Traditions
 ## Introduction
 Polynesian Traditions, practiced across Pacific islands, are indigenous faiths emphasizing gods like Tangaloa and ancestral spirits tied to nature.

@@ -1,3 +1,7 @@
+---
+title: "Theistic Satanism"
+slug: "theistic-satanism"
+---
 text# Theistic Satanism
 ## Introduction
 Theistic Satanism, emerging in the 20th century, views Satan as a literal deity, emphasizing spiritual rebellion and individualism.

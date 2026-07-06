@@ -1,3 +1,7 @@
+---
+title: "Transcendental Meditation"
+slug: "transcendental-meditation"
+---
 text# Transcendental Meditation
 ## Introduction
 Transcendental Meditation (TM), founded in the 1950s by Maharishi Mahesh Yogi in India, is a spiritual movement promoting a meditation technique for stress relief and self-realization. Rooted in Vedic traditions, TM involves silent mantra repetition to achieve transcendence. Popularized in the West by celebrities like the Beatles, it operates through global centers offering courses and retreats. TM emphasizes scientific benefits, appealing to seekers of personal growth and mental clarity, often independent of religious affiliation.

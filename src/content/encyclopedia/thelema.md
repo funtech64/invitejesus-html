@@ -1,3 +1,7 @@
+---
+title: "Thelema"
+slug: "thelema"
+---
 text# Thelema
 ## Introduction
 Thelema, founded in 1904 by Aleister Crowley in the UK, is a spiritual philosophy emphasizing individual will and esoteric practices based on *The Book of the Law*.

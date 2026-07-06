@@ -1,3 +1,7 @@
+---
+title: "Mithraism"
+slug: "mithraism"
+---
 text# Mithraism
 ## Introduction
 Mithraism was a mystery religion practiced in the Roman Empire from the 1st to 4th centuries CE, centered on the god Mithras, derived from Persian traditions. It emphasized initiation and cosmic salvation, popular among soldiers.

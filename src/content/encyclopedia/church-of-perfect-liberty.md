@@ -1,3 +1,7 @@
+---
+title: "Church of Perfect Liberty"
+slug: "church-of-perfect-liberty"
+---
 text# Church of Perfect Liberty
 ## Introduction
 The Church of Perfect Liberty, founded in 1924 by Tokumitsu Kanada in Japan, is a new religious movement emphasizing self-expression and a joyous life through divine principles.

@@ -1,3 +1,7 @@
+---
+title: "Cuban Vodú"
+slug: "cuban-vodu"
+---
 text# Cuban Vodú
 ## Introduction
 Cuban Vodú is a syncretic religion blending West African Vodun with Catholicism, developed among slaves in Cuba, focusing on spirits and rituals.

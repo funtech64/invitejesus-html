@@ -1,3 +1,7 @@
+---
+title: "Maasai Religion"
+slug: "maasai"
+---
 text# Maasai Religion
 ## Introduction
 Maasai religion is the traditional belief system of the Maasai people of Kenya and Tanzania, centered on a single deity, ancestors, and pastoral life. It emphasizes rituals, oral traditions, and harmony with the environment.

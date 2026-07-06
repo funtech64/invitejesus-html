@@ -1,3 +1,7 @@
+---
+title: "Shinnyo-en"
+slug: "shinnyo-en"
+---
 text# Shinnyo-en
 ## Introduction
 Shinnyo-en, founded in 1936 by Shinjo Ito in Japan, is a Buddhist-derived movement emphasizing enlightenment through meditation and compassion.

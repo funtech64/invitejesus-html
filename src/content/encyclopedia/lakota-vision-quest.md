@@ -1,3 +1,7 @@
+---
+title: "Lakota Vision Quest"
+slug: "lakota-vision-quest"
+---
 text# Lakota Vision Quest
 ## Introduction
 The Lakota Vision Quest is a traditional rite of the Lakota people in the US Great Plains, involving fasting and prayer for spiritual visions and guidance.

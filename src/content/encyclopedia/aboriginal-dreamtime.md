@@ -1,3 +1,7 @@
+---
+title: "Aboriginal Dreamtime"
+slug: "aboriginal-dreamtime"
+---
 text# Aboriginal Dreamtime
 ## Introduction
 Aboriginal Dreamtime, the spiritual tradition of Indigenous Australians, encompasses *Dreamings*—creation stories explaining the land, laws, and life. It involves songlines, ceremonies like *corroborees*, and art to transmit cultural knowledge across generations. Suppressed during colonization, it persists through revival efforts in remote communities and urban art. Sacred sites like Uluru are central, reflecting a profound connection to the land and ancestors, often blended with Christianity in modern contexts.

@@ -1,3 +1,7 @@
+---
+title: "Chinese Folk Religion"
+slug: "chinese-folk-religion"
+---
 text# Chinese Folk Religion
 ## Introduction
 Chinese Folk Religion, a syncretic tradition in China, blends Taoism, Confucianism, and ancestor worship, emphasizing harmony with nature and spirits. Practiced in homes and temples, it involves offerings, festivals like Qingming, and rituals for prosperity. It has shaped Chinese culture, from family values to architecture, and persists despite modernization.

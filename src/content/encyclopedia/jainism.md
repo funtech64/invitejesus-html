@@ -1,3 +1,7 @@
+---
+title: "Jainism"
+slug: "jainism"
+---
 text# Jainism
 ## Introduction
 Jainism is an ancient Indian religion, originating around the 6th century BCE, founded by Mahavira. It emphasizes nonviolence (ahimsa), asceticism, and liberation of the soul, based on texts like the *Agamas*.

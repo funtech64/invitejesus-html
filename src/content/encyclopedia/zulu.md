@@ -1,3 +1,7 @@
+---
+title: "Zulu"
+slug: "zulu"
+---
 text# Zulu
 ## Introduction
 The Zulu religion, practiced by the Zulu people of South Africa, is a traditional faith emphasizing Unkulunkulu (great creator) and ancestral worship.

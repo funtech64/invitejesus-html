@@ -1,3 +1,7 @@
+---
+title: "San/Khoisan Traditional Beliefs"
+slug: "san-khoisan"
+---
 text# San/Khoisan Traditional Beliefs
 ## Introduction
 San (Bushmen) and Khoisan traditional beliefs are the indigenous spiritualities of the San and Khoi peoples of Southern Africa, focusing on spirits, ancestors, and the natural world. They are expressed through rock art, storytelling, and trance dances.

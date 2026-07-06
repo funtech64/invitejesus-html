@@ -1,3 +1,7 @@
+---
+title: "Happy Science"
+slug: "happy-science"
+---
 text# Happy Science
 ## Introduction
 Happy Science (Kofuku-no-Kagaku), founded in 1986 by Ryuho Okawa in Japan, is a new religious movement emphasizing spiritual laws and enlightenment through teachings and meditation.

@@ -1,3 +1,7 @@
+---
+title: "Mapuche"
+slug: "mapuche"
+---
 text# Mapuche
 ## Introduction
 The Mapuche religion, practiced by the Mapuche in Chile and Argentina, emphasizes Ngenechen (creator) and spirits in nature, preserved in rituals.

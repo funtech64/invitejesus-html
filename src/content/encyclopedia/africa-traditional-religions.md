@@ -1,3 +1,7 @@
+---
+title: "Africa (Traditional Religions)"
+slug: "africa-traditional-religions"
+---
 # Africa (Traditional Religions)
 
 ## Introduction

@@ -1,3 +1,7 @@
+---
+title: "Process Church of the Final Judgment"
+slug: "process-church-of-the-final-judgment"
+---
 text# Process Church of the Final Judgment
 ## Introduction
 The Process Church of the Final Judgment, founded in 1966 by Mary Ann MacLean and Robert de Grimston in the UK, is a new religious movement blending Satanism, Christianity, and Gnosticism.

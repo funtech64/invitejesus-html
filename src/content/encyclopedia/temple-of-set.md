@@ -1,3 +1,7 @@
+---
+title: "Temple of Set"
+slug: "temple-of-set"
+---
 text# Temple of Set
 ## Introduction
 The Temple of Set, founded in 1975 by Michael Aquino in the US, is a new religious movement emphasizing self-deification and Setian philosophy.

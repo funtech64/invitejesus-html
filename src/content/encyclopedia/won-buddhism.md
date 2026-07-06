@@ -1,3 +1,7 @@
+---
+title: "Won Buddhism"
+slug: "won-buddhism"
+---
 text# Won Buddhism
 ## Introduction
 Won Buddhism is a modern Korean religion founded in 1916 by Sot’aesan (Pak Chung-bin), reforming traditional Buddhism to emphasize practical spirituality and social engagement. It centers on the Il-Won-Sang (One Circle) as a symbol of truth.

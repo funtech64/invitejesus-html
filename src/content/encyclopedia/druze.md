@@ -1,3 +1,7 @@
+---
+title: "Druze"
+slug: "druze"
+---
 text# Druze
 ## Introduction
 The Druze faith is a monotheistic religion that emerged in the 11th century CE in the Middle East, blending Islamic, Gnostic, and Neoplatonic elements. Founded by Hamza ibn Ali, it is practiced by the Druze community, primarily in Lebanon, Syria, and Israel.

@@ -1,3 +1,7 @@
+---
+title: "Kimbanguism"
+slug: "kimbanguism"
+---
 text# Kimbanguism
 ## Introduction
 Kimbanguism is an African Independent Church founded in 1921 by Simon Kimbangu in what is now the Democratic Republic of the Congo. Rooted in Christianity, it emphasizes African spiritual expression, healing, and resistance to colonial oppression.

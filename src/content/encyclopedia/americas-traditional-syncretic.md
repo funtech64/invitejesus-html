@@ -1,3 +1,7 @@
+---
+title: "Americas (Traditional & Syncretic)"
+slug: "americas-traditional-syncretic"
+---
 # Americas (Traditional & Syncretic)
 
 ## Introduction

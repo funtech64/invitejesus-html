@@ -1,3 +1,7 @@
+---
+title: "Raëlism"
+slug: "raelism"
+---
 text# Raëlism
 ## Introduction
 Raëlism is a UFO religion founded in 1974 by Claude Vorilhon (Raël) in France, teaching that humans were created by extraterrestrials (Elohim). It emphasizes science and peace.

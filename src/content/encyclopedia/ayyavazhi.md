@@ -1,3 +1,7 @@
+---
+title: "Ayyavazhi"
+slug: "ayyavazhi"
+---
 text# Ayyavazhi
 ## Introduction
 Ayyavazhi is a henotheistic religion originating in 19th-century South India, founded by Ayya Vaikundar. It blends Hindu and local traditions, emphasizing social reform and devotion, based on the *Akilathirattu Ammanai*.

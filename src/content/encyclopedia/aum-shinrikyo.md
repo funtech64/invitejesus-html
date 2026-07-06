@@ -1,3 +1,7 @@
+---
+title: "Aum Shinrikyo"
+slug: "aum-shinrikyo"
+---
 text# Aum Shinrikyo
 ## Introduction
 Aum Shinrikyo is a Japanese new religious movement founded in 1984 by Shoko Asahara, blending Buddhism, Hinduism, and apocalyptic beliefs. Known for the 1995 Tokyo sarin attack, it is now diminished but historically significant.

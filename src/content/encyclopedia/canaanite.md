@@ -1,3 +1,7 @@
+---
+title: "Canaanite"
+slug: "canaanite"
+---
 text# Canaanite
 ## Introduction
 Canaanite religion, practiced in the ancient Levant (circa 2000–300 BCE), was a polytheistic tradition of the Canaanite peoples, influencing Israelite religion. It centered on deities tied to nature and society, preserved in texts like the Baal Cycle.

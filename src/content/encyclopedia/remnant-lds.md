@@ -1,3 +1,7 @@
+---
+title: "Remnant Church of Jesus Christ"
+slug: "remnant-lds"
+---
 text# Remnant Church of Jesus Christ
 ## Introduction
 The Remnant Church of Jesus Christ, founded in 2000 in Missouri, is a Christian restorationist sect splitting from the Community of Christ, emphasizing a return to Joseph Smith’s original teachings. Rejecting modern LDS changes, it focuses on scripture, temple worship, and preparing for Christ’s return. Members meet in small congregations, practicing baptism and communal living, with a strong emphasis on prophetic guidance and Book of Mormon teachings. The Remnant Church appeals to those seeking a purer form of early Mormonism.

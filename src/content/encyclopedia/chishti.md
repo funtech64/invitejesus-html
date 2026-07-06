@@ -1,3 +1,7 @@
+---
+title: "Chishti"
+slug: "chishti"
+---
 text# Chishti
 ## Introduction
 The Chishti Order, founded in the 10th century by Abu Ishaq Shami in Afghanistan, is a Sufi order emphasizing love, tolerance, and music within Sunni Islam.

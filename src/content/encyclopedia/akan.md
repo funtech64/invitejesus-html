@@ -1,3 +1,7 @@
+---
+title: "Akan"
+slug: "akan"
+---
 text# Akan
 ## Introduction
 The Akan religion, practiced in Ghana and Ivory Coast, is a traditional faith emphasizing Nyame (supreme creator) and ancestral spirits.

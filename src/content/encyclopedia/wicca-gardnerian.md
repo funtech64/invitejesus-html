@@ -1,3 +1,7 @@
+---
+title: "Wicca (Gardnerian)"
+slug: "wicca-gardnerian"
+---
 text# Wicca (Gardnerian)
 ## Introduction
 Gardnerian Wicca, founded in the 1950s by Gerald Gardner in the UK, is a neo-pagan religion emphasizing witchcraft, nature, and ritual magic within a coven structure.

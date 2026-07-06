@@ -1,3 +1,7 @@
+---
+title: "ISKCON/Hare Krishna"
+slug: "iskcon-hare-krishna"
+---
 text# ISKCON/Hare Krishna
 ## Introduction
 The International Society for Krishna Consciousness (ISKCON), or Hare Krishna, is a Hindu-based movement founded in 1966 by A.C. Bhaktivedanta Swami Prabhupada in the US. It emphasizes devotion to Krishna through chanting and vegetarianism.

@@ -1,3 +1,7 @@
+---
+title: "Ramakrishna Mission"
+slug: "ramakrishna-mission"
+---
 text# Ramakrishna Mission
 ## Introduction
 The Ramakrishna Mission, founded in 1897 by Swami Vivekananda in India, is a spiritual movement rooted in Vedanta, promoting universal religion and service. Inspired by Sri Ramakrishna’s mystical experiences, it integrates Hindu practices with social work, education, and interfaith dialogue. Centers worldwide offer meditation, *puja*, and charity, appealing to those seeking spiritual unity and humanitarianism. Vivekananda’s Chicago speech (1893) globalized its influence.

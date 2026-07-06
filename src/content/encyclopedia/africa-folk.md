@@ -1,3 +1,7 @@
+---
+title: "Africa (Traditional Religions)"
+slug: "africa-folk"
+---
 text# Africa (Traditional Religions)
 ## Introduction
 African Traditional Religions encompass diverse indigenous faiths across Africa, emphasizing ancestors, spirits, and harmony with nature.

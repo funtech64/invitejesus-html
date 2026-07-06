@@ -1,3 +1,7 @@
+---
+title: "Quimbanda"
+slug: "quimbanda"
+---
 text# Quimbanda
 ## Introduction
 Quimbanda is a Brazilian syncretic religion blending African exús, Catholicism, and Spiritism, emphasizing magic and spirits.

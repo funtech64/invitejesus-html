@@ -1,3 +1,7 @@
+---
+title: "Community of Christ"
+slug: "community-of-christ"
+---
 text# Community of Christ
 ## Introduction
 The Community of Christ, founded in 1860 as a reorganized branch of Mormonism by Joseph Smith III, is a Christian denomination emphasizing peace, community, and scripture. Evolving from early LDS teachings, it rejects polygamy and focuses on inclusive worship, social justice, and global mission. Members gather in congregations for sacraments like baptism and the Lord’s Supper, using the Book of Mormon alongside the Bible. Headquartered in Missouri, it balances restorationist roots with modern Christian values, appealing to those seeking a progressive Mormon identity.

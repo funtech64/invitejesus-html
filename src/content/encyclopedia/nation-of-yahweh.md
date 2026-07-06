@@ -1,3 +1,7 @@
+---
+title: "Nation of Yahweh"
+slug: "nation-of-yahweh"
+---
 text# Nation of Yahweh
 ## Introduction
 The Nation of Yahweh is a religious movement founded in 1979 by Hulon Mitchell Jr. (Yahweh ben Yahweh) in the United States. Rooted in Black Hebrew Israelite theology, it emphasizes African-American empowerment and divine identity as the true Israelites.

@@ -1,3 +1,7 @@
+---
+title: "Olmec"
+slug: "olmec"
+---
 text# Olmec
 ## Introduction
 Olmec religion, practiced in Mesoamerica (circa 1500–400 BCE), was an early polytheistic tradition influencing later cultures like the Maya and Aztec. Centered on nature deities, it is known from archaeological evidence.

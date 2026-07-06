@@ -1,3 +1,7 @@
+---
+title: "Kemeticism"
+slug: "kemeticism"
+---
 text# Kemeticism
 ## Introduction
 Kemeticism, revived in the 20th century, is a neo-pagan religion reconstructing ancient Egyptian spirituality, emphasizing balance and divine worship.

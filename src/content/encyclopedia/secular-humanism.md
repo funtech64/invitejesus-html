@@ -1,3 +1,7 @@
+---
+title: "Secular Humanism"
+slug: "secular-humanism"
+---
 text# Secular Humanism
 ## Introduction
 Secular Humanism, formalized in the 20th century, is a non-theistic philosophy emphasizing reason, ethics, and human flourishing without religion.

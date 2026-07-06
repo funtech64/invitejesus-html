@@ -1,3 +1,7 @@
+---
+title: "Daejonggyo"
+slug: "daejonggyo"
+---
 text# Daejonggyo
 ## Introduction
 Daejonggyo, or Dangun worship, is a Korean religion founded in the early 20th century, centered on the veneration of Dangun, the mythical founder of Korea (2333 BCE). It blends nationalism, shamanism, and reverence for a divine ancestor.

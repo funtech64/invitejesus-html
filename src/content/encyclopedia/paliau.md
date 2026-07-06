@@ -1,3 +1,7 @@
+---
+title: "Paliau"
+slug: "paliau"
+---
 text# Paliau
 ## Introduction
 The Paliau movement, a cargo cult on Manus Island, Papua New Guinea, emerged in the 1940s under Paliau Maloat’s leadership. It emphasizes social reform, prosperity, and cargo (Western goods) through rituals and community organization. Reflecting anti-colonial resistance, it blends indigenous beliefs with Christian elements, persisting as a cultural and spiritual force in Melanesia, with ceremonies like communal feasts maintaining its legacy.

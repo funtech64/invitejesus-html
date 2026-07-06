@@ -1,3 +1,7 @@
+---
+title: "Roman Reconstructionism"
+slug: "roman-reconstructionism"
+---
 text# Roman Reconstructionism
 ## Introduction
 Roman Reconstructionism, revived in the 20th century, is a neo-pagan religion reconstructing ancient Roman spirituality, emphasizing worship of gods like Jupiter.

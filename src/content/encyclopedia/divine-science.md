@@ -1,3 +1,7 @@
+---
+title: "Divine Science"
+slug: "divine-science"
+---
 text# Divine Science
 ## Introduction
 Divine Science, founded in the 1880s by Malinda Cramer in the US, is a New Thought movement emphasizing divine presence and mental healing.

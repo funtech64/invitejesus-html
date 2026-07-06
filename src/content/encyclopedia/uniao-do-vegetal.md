@@ -1,3 +1,7 @@
+---
+title: "União do Vegetal"
+slug: "uniao-do-vegetal"
+---
 text# União do Vegetal
 ## Introduction
 União do Vegetal (UDV) is a Brazilian syncretic religion founded in 1961 by José Gabriel da Costa. It combines Christianity, Spiritism, and indigenous Amazonian traditions, using ayahuasca (called "hoasca") as a sacrament for spiritual enlightenment and communion.

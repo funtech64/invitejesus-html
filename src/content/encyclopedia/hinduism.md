@@ -1,3 +1,7 @@
+---
+title: "Hinduism"
+slug: "hinduism"
+---
 text# Hinduism
 ## Introduction
 Hinduism, one of the world’s oldest religions, originated in the Indian subcontinent over 4,000 years ago. A diverse, polytheistic faith, it encompasses traditions like Vaishnavism and Shaivism, with no single founder. Hindus worship in temples, homes, and festivals like Diwali, using rituals like *puja* and yoga. It has shaped Indian culture, philosophy, and arts, influencing global spirituality through texts like the Bhagavad Gita.
