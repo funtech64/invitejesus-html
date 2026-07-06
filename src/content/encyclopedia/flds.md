@@ -1,3 +1,7 @@
+---
+title: "Fundamentalist LDS"
+slug: "flds"
+---
 text# Fundamentalist LDS
 ## Introduction
 The Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS), branching from Mormonism in the early 20th century, is a Christian sect emphasizing polygamy and strict adherence to early LDS teachings. Led by figures like Warren Jeffs, it maintains isolated communities, rejecting mainstream LDS changes like the 1890 polygamy ban. Members practice communal living, modest dress, and patriarchal governance, with worship centered on temples and home study. The FLDS emerged from disputes over doctrine, appealing to those committed to Joseph Smith’s original revelations despite legal and social controversies.

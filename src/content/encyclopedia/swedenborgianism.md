@@ -1,3 +1,7 @@
+---
+title: "Swedenborgianism"
+slug: "swedenborgianism"
+---
 text# Swedenborgianism
 ## Introduction
 Swedenborgianism, founded in the 18th century by Emanuel Swedenborg in Sweden, is a mystical Christian movement emphasizing spiritual worlds and divine correspondence.

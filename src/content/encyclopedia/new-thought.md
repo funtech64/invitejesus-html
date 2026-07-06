@@ -1,3 +1,7 @@
+---
+title: "New Thought"
+slug: "new-thought"
+---
 text# New Thought
 ## Introduction
 New Thought, emerging in the 19th century in the US, is a spiritual movement emphasizing mind power, positive thinking, and divine unity.

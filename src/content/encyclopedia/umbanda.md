@@ -1,3 +1,7 @@
+---
+title: "Umbanda"
+slug: "umbanda"
+---
 text# Umbanda
 ## Introduction
 Umbanda is a syncretic Brazilian religion blending African orixás, Catholicism, and Spiritism, emphasizing charity and spirit mediumship.

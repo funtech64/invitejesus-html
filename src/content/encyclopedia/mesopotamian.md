@@ -1,3 +1,7 @@
+---
+title: "Mesopotamian"
+slug: "mesopotamian"
+---
 text# Mesopotamian
 ## Introduction
 Mesopotamian religion, practiced in ancient Sumer, Babylon, and Assyria (circa 3000–300 BCE), was a polytheistic tradition centered on deities controlling natural and social forces. It influenced later Abrahamic religions through myths and laws.

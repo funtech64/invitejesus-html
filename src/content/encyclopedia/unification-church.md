@@ -1,3 +1,7 @@
+---
+title: "Unification Church"
+slug: "unification-church"
+---
 text# Unification Church
 ## Introduction
 The Unification Church, founded in 1954 by Sun Myung Moon in South Korea, is a new religious movement emphasizing divine unity and the *Divine Principle*.

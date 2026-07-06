@@ -1,3 +1,7 @@
+---
+title: "Oneness Pentecostals"
+slug: "oneness-pentecostals"
+---
 text# Oneness Pentecostals
 ## Introduction
 Oneness Pentecostalism is a Christian movement emerging in the early 20th century in the United States, emphasizing non-Trinitarian theology and baptism in Jesus’ name. It focuses on spiritual gifts and holiness.

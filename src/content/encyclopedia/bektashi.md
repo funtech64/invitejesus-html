@@ -1,3 +1,7 @@
+---
+title: "Bektashi"
+slug: "bektashi"
+---
 text# Bektashi
 ## Introduction
 The Bektashi Order, founded in the 13th century by Haji Bektash Veli in Turkey, is a Sufi order blending Shia and Sunni elements, emphasizing mysticism and tolerance.

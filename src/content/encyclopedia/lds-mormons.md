@@ -1,3 +1,7 @@
+---
+title: "LDS/Mormons"
+slug: "lds-mormons"
+---
 text# LDS/Mormons
 ## Introduction
 The Church of Jesus Christ of Latter-day Saints (LDS), founded in 1830 by Joseph Smith in the United States, is a restorationist Christian movement. It emphasizes additional scriptures (Book of Mormon) and modern prophets.

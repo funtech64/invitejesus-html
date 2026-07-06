@@ -1,3 +1,7 @@
+---
+title: "Navajo"
+slug: "navajo"
+---
 text# Navajo
 ## Introduction
 The Navajo religion, practiced in the US Southwest, emphasizes harmony (hózhó) and spiritual beings like Changing Woman.

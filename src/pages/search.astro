@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PagefindSearch from 'astro-pagefind/components/Search';
+---
+
+<BaseLayout
+  title="Search"
+  description="Search encyclopedia entries and site pages on InviteJesus.org."
+>
+  <div class="container search-page">
+    <h1>Search</h1>
+    <p>Full-text search across encyclopedia entries, powered by Pagefind.</p>
+    <PagefindSearch id="search" className="pagefind-ui" />
+  </div>
+</BaseLayout>

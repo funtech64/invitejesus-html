@@ -1,3 +1,7 @@
+---
+title: "Rajneesh/Osho"
+slug: "rajneesh-osho"
+---
 text# Rajneesh/Osho
 ## Introduction
 The Rajneesh movement, founded in the 1960s by Bhagwan Shree Rajneesh (Osho) in India, is a spiritual movement blending Eastern mysticism, meditation, and individualism. Known for dynamic meditation and controversial communes, it emphasizes self-awareness and liberation from societal norms. After conflicts in Oregon, US, it rebranded as Osho, with centers worldwide offering meditation retreats. Osho’s teachings, delivered through discourses, attract seekers of personal transformation despite past controversies.

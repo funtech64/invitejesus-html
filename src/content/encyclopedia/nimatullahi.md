@@ -1,3 +1,7 @@
+---
+title: "Ni’matullahi"
+slug: "nimatullahi"
+---
 text# Ni’matullahi
 ## Introduction
 The Ni’matullahi Order, founded in the 14th century by Shah Ni’matullah Wali in Iran, is a Sufi order emphasizing spiritual love and service within Shia Islam.

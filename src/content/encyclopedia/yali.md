@@ -1,3 +1,7 @@
+---
+title: "Yali"
+slug: "yali"
+---
 text# Yali
 ## Introduction
 The Yali cargo cult, emerging in the 1960s in Papua New Guinea, venerates Yali, a messianic figure promising prosperity and independence from colonial rule. It blends indigenous beliefs with Western influences, involving rituals like dances and offerings to prepare for Yali’s return with cargo (goods). The cult reflects anti-colonial sentiment and persists as a cultural movement, often alongside Christianity, in remote Melanesian communities.

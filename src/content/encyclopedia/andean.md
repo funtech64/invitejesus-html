@@ -1,3 +1,7 @@
+---
+title: "Andean"
+slug: "andean"
+---
 text# Andean
 ## Introduction
 Andean religion is the indigenous spiritual tradition of Andean peoples in Peru, Bolivia, and Ecuador, centered on deities like Inti (sun) and Pachamama (earth). It emphasizes reciprocity and harmony with nature.

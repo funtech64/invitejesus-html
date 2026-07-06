@@ -1,3 +1,7 @@
+---
+title: "Pacific & Oceanic"
+slug: "pacific-oceanic"
+---
 # Pacific & Oceanic
 
 ## Introduction

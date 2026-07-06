@@ -1,3 +1,7 @@
+---
+title: "Samaritanism"
+slug: "samaritanism"
+---
 text# Samaritanism
 ## Introduction
 Samaritanism is an ancient Abrahamic religion practiced by Samaritans in Israel and the West Bank, dating to the 8th century BCE. It is based on the Samaritan Pentateuch and emphasizes the covenant at Mount Gerizim.

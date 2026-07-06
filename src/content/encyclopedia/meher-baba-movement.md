@@ -1,3 +1,7 @@
+---
+title: "Meher Baba Movement"
+slug: "meher-baba-movement"
+---
 text# Meher Baba Movement
 ## Introduction
 The Meher Baba Movement, founded in the 1920s by Meher Baba in India, emphasizes spiritual awakening and universal love through devotion.

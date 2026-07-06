@@ -1,3 +1,7 @@
+---
+title: "John Frum"
+slug: "john-frum"
+---
 text# John Frum
 ## Introduction
 John Frum is a cargo cult on Tanna Island, Vanuatu, emerging in the 1930s during colonial rule. It venerates John Frum, a messianic figure promising prosperity and cargo (Western goods). Rituals involve dances, mock military drills, and raising symbolic flags, reflecting resistance to colonial oppression. The cult persists as a cultural and spiritual movement, blending indigenous beliefs with Western influences, often alongside Christianity.

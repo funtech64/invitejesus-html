@@ -1,3 +1,7 @@
+---
+title: "Universal Medicine"
+slug: "universal-medicine"
+---
 text# Universal Medicine
 ## Introduction
 Universal Medicine, founded in 1999 by Serge Benhayon in Australia, is a spiritual movement blending esotericism and healing, emphasizing the "Livingness" philosophy.

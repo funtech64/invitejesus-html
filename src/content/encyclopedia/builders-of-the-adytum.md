@@ -1,3 +1,7 @@
+---
+title: "Builders of the Adytum"
+slug: "builders-of-the-adytum"
+---
 text# Builders of the Adytum
 ## Introduction
 Builders of the Adytum (BOTA), founded in 1922 by Paul Foster Case in the US, is an esoteric movement blending Tarot, Kabbalah, and Western mysticism.

@@ -1,3 +1,7 @@
+---
+title: "Religious Science"
+slug: "religious-science"
+---
 text# Religious Science
 ## Introduction
 Religious Science, founded in 1927 by Ernest Holmes in the US, is a New Thought movement emphasizing spiritual mind treatment and positive thinking.

@@ -1,0 +1,9 @@
+[
+  { "label": "Home", "href": "/" },
+  { "label": "Encyclopedia", "href": "/encyclopedia/" },
+  { "label": "12 Argument Positions", "href": "/positions/" },
+  { "label": "Assigned Positions", "href": "/assigned-positions/" },
+  { "label": "Implications", "href": "/implications/" },
+  { "label": "Info", "href": "/info/" },
+  { "label": "Contact", "href": "/contact/" }
+]

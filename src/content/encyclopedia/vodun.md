@@ -1,3 +1,7 @@
+---
+title: "Vodun (West Africa)"
+slug: "vodun"
+---
 text# Vodun (West Africa)
 ## Introduction
 Vodun, a traditional West African faith from Benin, emphasizes spirits (Vodun) and ancestral worship, influencing diaspora religions.

@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import RelatedEntries from '../../components/RelatedEntries.astro';
+import { getCollection, render } from 'astro:content';
+import { getEntryTitle } from '../../utils/encyclopedia';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('encyclopedia', ({ data }) => !data.draft);
+
+  return entries.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const allEntries = await getCollection('encyclopedia', ({ data }) => !data.draft);
+const { Content } = await render(entry);
+const title = getEntryTitle(entry);
+---
+
+<BaseLayout
+  title={title}
+  description={entry.data.description ?? `Encyclopedia entry: ${title}`}
+>
+  <div class="container encyclopedia-layout">
+    <Sidebar entries={allEntries} currentSlug={entry.id} />
+    <main>
+      <article>
+        <header class="article-header">
+          <nav class="breadcrumb" aria-label="Breadcrumb">
+            <a href="/">Home</a> ›
+            <a href="/encyclopedia/">Encyclopedia</a> ›
+            <span>{title}</span>
+          </nav>
+          <h1>{title}</h1>
+          {entry.data.category && <p class="entry-meta">{entry.data.category}</p>}
+        </header>
+
+        <div class="prose">
+          <Content />
+        </div>
+
+        <RelatedEntries entry={entry} allEntries={allEntries} />
+      </article>
+    </main>
+  </div>
+</BaseLayout>

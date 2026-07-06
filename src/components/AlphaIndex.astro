@@ -1,0 +1,43 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { INDEX_LETTERS, groupByLetter } from '../utils/encyclopedia';
+
+interface Props {
+  entries: CollectionEntry<'encyclopedia'>[];
+  activeLetter?: string;
+}
+
+const { entries, activeLetter } = Astro.props;
+const groups = groupByLetter(entries);
+
+function countFor(letter: string) {
+  return groups.get(letter)?.length ?? 0;
+}
+---
+
+<nav class="alpha-index" aria-label="Alphabetical index">
+  <div class="alpha-letters">
+    {
+      INDEX_LETTERS.map((letter) => {
+        const count = countFor(letter);
+        const href = letter === '#' ? '/index/other/' : `/index/${letter.toLowerCase()}/`;
+        const isActive = activeLetter === letter;
+
+        if (count === 0) {
+          return <span class="alpha-letter disabled" aria-disabled="true">{letter}</span>;
+        }
+
+        return (
+          <a
+            class:list={['alpha-letter', { active: isActive }]}
+            href={href}
+            aria-current={isActive ? 'page' : undefined}
+          >
+            {letter}
+            <span class="alpha-count">{count}</span>
+          </a>
+        );
+      })
+    }
+  </div>
+</nav>

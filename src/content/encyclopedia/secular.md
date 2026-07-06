@@ -1,3 +1,7 @@
+---
+title: "Secular/Philosophical"
+slug: "secular"
+---
 text# Secular/Philosophical
 ## Introduction
 Secular/Philosophical traditions encompass non-religious worldviews like atheism, agnosticism, and humanism, emphasizing reason, ethics, and human potential. Emerging from Enlightenment thought, they reject supernatural beliefs, focusing on science and human agency. Practiced globally in secular societies, they influence education, law, and ethics, offering alternatives to religious frameworks while coexisting with them.

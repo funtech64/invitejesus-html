@@ -1,3 +1,7 @@
+---
+title: "Celtic"
+slug: "celtic"
+---
 text# Celtic
 ## Introduction
 Celtic religion, practiced by Celtic peoples in Europe (circa 500 BCE–500 CE), was a polytheistic tradition centered on deities like Lugh and Brigid, tied to nature and community. It is preserved in myths and archaeological records.

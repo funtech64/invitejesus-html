@@ -1,3 +1,7 @@
+---
+title: "Onmyōdō"
+slug: "onmyodo"
+---
 text# Onmyōdō
 ## Introduction
 Onmyōdō is a traditional Japanese esoteric cosmology, rooted in Shinto, Taoism, and Buddhism, practiced from the 6th century CE. It focuses on divination, astrology, and rituals to harmonize yin-yang energies and protect against spirits.

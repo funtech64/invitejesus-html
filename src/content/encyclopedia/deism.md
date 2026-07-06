@@ -1,3 +1,7 @@
+---
+title: "Deism"
+slug: "deism"
+---
 text# Deism
 ## Introduction
 Deism is an 18th-century philosophical movement, prominent during the Enlightenment, emphasizing a rational belief in a non-interventionist creator God. It rejects revealed religion and supernatural doctrines.

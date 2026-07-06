@@ -1,3 +1,7 @@
+---
+title: "Santo Daime"
+slug: "santo-daime"
+---
 text# Santo Daime
 ## Introduction
 Santo Daime is a syncretic religion founded in the 1930s by Raimundo Irineu Serra in Brazil’s Amazon region. It blends Christianity, African spiritualism, and indigenous shamanism, centering on the sacramental use of ayahuasca, a psychoactive brew, for spiritual communion and healing.

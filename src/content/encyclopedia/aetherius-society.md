@@ -1,3 +1,7 @@
+---
+title: "Aetherius Society"
+slug: "aetherius-society"
+---
 text# Aetherius Society
 ## Introduction
 The Aetherius Society, founded in 1955 by George King in the UK, is a new religious movement blending UFO beliefs with spirituality. King, claiming contact with extraterrestrial “Cosmic Masters,” taught that humanity can achieve enlightenment through service and prayer. Rituals include charging spiritual energy batteries and pilgrimages to sacred mountains. The Society appeals to those fascinated by UFOs and esoteric spirituality, with a small but global presence.

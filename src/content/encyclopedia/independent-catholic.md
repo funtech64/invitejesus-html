@@ -1,3 +1,7 @@
+---
+title: "Independent Catholic"
+slug: "independent-catholic"
+---
 text# Independent Catholic
 ## Introduction
 Independent Catholic Churches, emerging in the 19th–20th centuries, are Christian groups operating outside Roman Catholicism, emphasizing autonomy.

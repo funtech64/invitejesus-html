@@ -1,0 +1,28 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getEntryTitle, getRelatedEntries } from '../utils/encyclopedia';
+
+interface Props {
+  entry: CollectionEntry<'encyclopedia'>;
+  allEntries: CollectionEntry<'encyclopedia'>[];
+}
+
+const { entry, allEntries } = Astro.props;
+const related = getRelatedEntries(entry, allEntries);
+---
+
+{
+  related.length > 0 && (
+    <section class="related-entries">
+      <h2>Related entries</h2>
+      <ul>
+        {related.map((item) => (
+          <li>
+            <a href={`/encyclopedia/${item.id}/`}>{getEntryTitle(item)}</a>
+            {item.data.category && <span class="related-meta">{item.data.category}</span>}
+          </li>
+        ))}
+      </ul>
+    </section>
+  )
+}

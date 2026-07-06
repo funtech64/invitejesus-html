@@ -1,3 +1,7 @@
+---
+title: "Sikhism"
+slug: "sikhism"
+---
 text# Sikhism
 ## Introduction
 Sikhism is a monotheistic religion founded in the 15th century by Guru Nanak in Punjab, India. Based on the Guru Granth Sahib, it emphasizes devotion to one God, equality, and service, practiced through the Khalsa community.

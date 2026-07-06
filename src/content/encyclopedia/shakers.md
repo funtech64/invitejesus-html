@@ -1,3 +1,7 @@
+---
+title: "Shakers"
+slug: "shakers"
+---
 text# Shakers
 ## Introduction
 Shakers, founded in the 18th century by Ann Lee in the US, are a Christian sect emphasizing communal living, celibacy, and spiritual purity.

@@ -1,3 +1,7 @@
+---
+title: "Celtic Reconstructionism"
+slug: "celtic-reconstructionism"
+---
 text# Celtic Reconstructionism
 ## Introduction
 Celtic Reconstructionism is a modern pagan revival of pre-Christian Celtic religions, emerging in the late 20th century. It seeks to reconstruct Irish, Scottish, and Welsh spiritual practices, emphasizing historical accuracy and nature worship.

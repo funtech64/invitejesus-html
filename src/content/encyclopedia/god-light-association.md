@@ -1,3 +1,7 @@
+---
+title: "God Light Association (GLA)"
+slug: "god-light-association"
+---
 text# God Light Association (GLA)
 ## Introduction
 God Light Association (GLA), founded in 1969 by Shinji Takahashi in Japan, is a spiritual movement blending Buddhism and New Age ideas, emphasizing divine light.

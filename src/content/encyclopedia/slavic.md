@@ -1,3 +1,7 @@
+---
+title: "Slavic"
+slug: "slavic"
+---
 text# Slavic
 ## Introduction
 Slavic religion, practiced by Slavic peoples in Eastern Europe (circa 500–1000 CE), was a polytheistic tradition centered on deities like Perun and Veles. It emphasizes nature and is preserved in folklore and rituals.

@@ -1,3 +1,7 @@
+---
+title: "Yoruba"
+slug: "yoruba"
+---
 text# Yoruba
 ## Introduction
 The Yoruba religion, originating among the Yoruba people in Nigeria, is a traditional African faith emphasizing worship of Orishas (deities) and ancestral spirits.

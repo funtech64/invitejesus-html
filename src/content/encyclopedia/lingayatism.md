@@ -1,3 +1,7 @@
+---
+title: "Lingayatism"
+slug: "lingayatism"
+---
 text# Lingayatism
 ## Introduction
 Lingayatism, or Veerashaivism, is a 12th-century Hindu reform movement from Karnataka, India, founded by Basava. It emphasizes monotheistic devotion to Shiva, rejects caste, and promotes personal spirituality over ritualistic Hinduism.

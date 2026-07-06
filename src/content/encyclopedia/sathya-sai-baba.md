@@ -1,3 +1,7 @@
+---
+title: "Sathya Sai Baba Movement"
+slug: "sathya-sai-baba"
+---
 text# Sathya Sai Baba Movement
 ## Introduction
 The Sathya Sai Baba Movement, founded in the 1940s by Sathya Sai Baba in India, is a spiritual movement emphasizing universal religion, devotion, and service. Sai Baba, considered a divine incarnation, taught unity of faiths through bhakti (devotion) and charity. Centers worldwide offer prayer, meditation, and humanitarian projects like schools and hospitals. The movement attracts followers seeking spiritual unity and practical service, blending Hindu and interfaith elements.

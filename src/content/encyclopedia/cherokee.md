@@ -1,3 +1,7 @@
+---
+title: "Cherokee"
+slug: "cherokee"
+---
 text# Cherokee
 ## Introduction
 The Cherokee religion, practiced by the Cherokee people in the US Southeast, emphasizes the Great Spirit and harmony with nature, preserved in myths and rituals.

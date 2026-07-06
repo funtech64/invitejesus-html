@@ -1,0 +1,42 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import AlphaIndex from '../../components/AlphaIndex.astro';
+import { getCollection } from 'astro:content';
+import { getEntryTitle, getSortKey } from '../../utils/encyclopedia';
+
+const entries = (await getCollection('encyclopedia'))
+  .filter((entry) => !entry.data.draft)
+  .sort((a, b) => getSortKey(a).localeCompare(getSortKey(b)));
+---
+
+<BaseLayout
+  title="Encyclopedia"
+  description="An encyclopedia of religions, movements, and worldviews supporting the apologetic study of John 14:6."
+>
+  <div class="container encyclopedia-layout">
+    <Sidebar entries={entries} />
+    <main>
+      <header class="article-header">
+        <nav class="breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a> › <span>Encyclopedia</span>
+        </nav>
+        <h1>Encyclopedia</h1>
+        <p class="entry-meta">{entries.length} entries on religions, movements, and worldviews.</p>
+      </header>
+
+      <AlphaIndex entries={entries} />
+
+      <ul class="entry-list">
+        {
+          entries.map((entry) => (
+            <li>
+              <a href={`/encyclopedia/${entry.id}/`}>{getEntryTitle(entry)}</a>
+              {entry.data.category && <span class="entry-meta">{entry.data.category}</span>}
+            </li>
+          ))
+        }
+      </ul>
+    </main>
+  </div>
+</BaseLayout>

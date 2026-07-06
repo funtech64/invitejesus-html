@@ -1,3 +1,7 @@
+---
+title: "Seicho-No-Ie"
+slug: "seicho-no-ie"
+---
 text# Seicho-No-Ie
 ## Introduction
 Seicho-No-Ie, founded in 1930 by Masaharu Taniguchi in Japan, is a new religious movement blending Shinto and Christianity, emphasizing positive thinking.

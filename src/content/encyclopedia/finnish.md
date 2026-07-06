@@ -1,3 +1,7 @@
+---
+title: "Finnish"
+slug: "finnish"
+---
 text# Finnish
 ## Introduction
 Finnish religion, practiced by Finnic peoples (circa 500–1100 CE), was a polytheistic and animistic tradition centered on deities like Ukko and Ahti. It emphasizes nature and is preserved in the *Kalevala* epic.

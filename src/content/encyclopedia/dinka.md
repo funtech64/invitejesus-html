@@ -1,3 +1,7 @@
+---
+title: "Dinka"
+slug: "dinka"
+---
 text# Dinka
 ## Introduction
 The Dinka religion, practiced by the Dinka people of South Sudan, is a traditional faith centered on Nhialic (supreme creator) and ancestral spirits.

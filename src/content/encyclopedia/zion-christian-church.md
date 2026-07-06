@@ -1,3 +1,7 @@
+---
+title: "Zion Christian Church"
+slug: "zion-christian-church"
+---
 text# Zion Christian Church
 ## Introduction
 The Zion Christian Church (ZCC) is a South African African Independent Church founded in 1910 by Engenas Lekganyane. It blends Christian theology with African traditions, emphasizing healing, prophecy, and large-scale pilgrimages to Moria, South Africa.

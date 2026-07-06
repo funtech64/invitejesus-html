@@ -1,3 +1,7 @@
+---
+title: "Mandaeism"
+slug: "mandaeism"
+---
 text# Mandaeism
 ## Introduction
 Mandaeism is an ancient Gnostic religion, originating in the 1st–2nd century CE in Mesopotamia, practiced by the Mandaean people. It emphasizes baptism, esoteric knowledge, and lightworld cosmology, based on texts like the *Ginza Rba*.

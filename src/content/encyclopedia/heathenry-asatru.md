@@ -1,3 +1,7 @@
+---
+title: "Heathenry (Ásatrú)"
+slug: "heathenry-asatru"
+---
 text# Heathenry (Ásatrú)
 ## Introduction
 Heathenry (Ásatrú), revived in the 1970s in Iceland, is a neo-pagan religion based on Norse mythology, emphasizing community and ancestral traditions.

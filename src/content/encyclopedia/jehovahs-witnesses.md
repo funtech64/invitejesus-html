@@ -1,3 +1,7 @@
+---
+title: "Jehovah’s Witnesses"
+slug: "jehovahs-witnesses"
+---
 text# Jehovah’s Witnesses
 ## Introduction
 Jehovah’s Witnesses is a Christian denomination founded in the late 19th century by Charles Taze Russell in the United States. It emphasizes strict adherence to biblical teachings, door-to-door evangelism, and preparation for God’s kingdom.

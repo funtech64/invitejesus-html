@@ -1,3 +1,7 @@
+---
+title: "Wicca"
+slug: "wicca"
+---
 text# Wicca
 ## Introduction
 Wicca is a modern pagan religion, developed in the mid-20th century by Gerald Gardner in England. It emphasizes nature worship, magic, and a balance of feminine and masculine divine energies, often practiced in covens or solitarily.

@@ -1,3 +1,7 @@
+---
+title: "Lakota Sun Dance"
+slug: "lakota-sun-dance"
+---
 text# Lakota Sun Dance
 ## Introduction
 The Lakota Sun Dance is a traditional ceremony of the Lakota people in the US Great Plains, involving sacrifice, renewal, and spiritual connection to Wakan Tanka.

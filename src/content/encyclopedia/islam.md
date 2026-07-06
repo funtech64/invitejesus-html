@@ -1,3 +1,7 @@
+---
+title: "Islam"
+slug: "islam"
+---
 text# Islam
 ## Introduction
 Islam, the second-largest religion, originated in 7th-century Arabia with the Prophet Muhammad’s revelations, recorded in the Quran. Centered on submission to Allah, it spread rapidly across the Middle East, Africa, and Asia, forming Sunni and Shia branches. Muslims worship in mosques, following the Five Pillars (faith, prayer, charity, fasting, pilgrimage). Islam has shaped art, law, and science, with a global presence influencing cultures from Indonesia to Morocco.

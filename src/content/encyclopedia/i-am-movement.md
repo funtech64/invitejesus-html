@@ -1,3 +1,7 @@
+---
+title: "I AM Movement"
+slug: "i-am-movement"
+---
 text# I AM Movement
 ## Introduction
 The I AM Movement, founded in 1930 by Guy and Edna Ballard in the US, emphasizes the divine “I AM” presence and Ascended Masters for spiritual growth.

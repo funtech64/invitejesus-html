@@ -1,3 +1,7 @@
+---
+title: "Hermeticism"
+slug: "hermeticism"
+---
 text# Hermeticism
 ## Introduction
 Hermeticism is a philosophical and esoteric tradition rooted in the writings attributed to Hermes Trismegistus, emerging in Hellenistic Egypt (2nd–3rd century CE) and revived in the Renaissance and modern era. It emphasizes mystical knowledge, alchemy, and spiritual transformation.

@@ -1,3 +1,7 @@
+---
+title: "Osho/Rajneesh Movement"
+slug: "osho-rajneesh-movement"
+---
 text# Osho/Rajneesh Movement
 ## Introduction
 The Osho or Rajneesh movement is a spiritual movement founded in the 1960s by Bhagwan Shree Rajneesh (Osho) in India. It blends Hinduism, Buddhism, and Western spirituality, emphasizing meditation, freedom, and personal transformation.

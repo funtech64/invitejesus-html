@@ -1,3 +1,7 @@
+---
+title: "Norse"
+slug: "norse"
+---
 text# Norse
 ## Introduction
 Norse religion, practiced by Germanic and Scandinavian peoples from circa 500–1000 CE, is a polytheistic tradition centered on gods like Odin and Thor, preserved in texts like the *Eddas*. It emphasizes heroism, fate, and nature.

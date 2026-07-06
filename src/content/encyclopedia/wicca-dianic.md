@@ -1,3 +1,7 @@
+---
+title: "Wicca (Dianic)"
+slug: "wicca-dianic"
+---
 text# Wicca (Dianic)
 ## Introduction
 Dianic Wicca, founded in the 1970s by Zsuzsanna Budapest in the US, is a feminist neo-pagan religion focusing on the Goddess and women’s spirituality.

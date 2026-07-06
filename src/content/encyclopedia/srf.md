@@ -1,3 +1,7 @@
+---
+title: "Self-Realization Fellowship"
+slug: "srf"
+---
 text# Self-Realization Fellowship
 ## Introduction
 Self-Realization Fellowship (SRF), founded in 1920 by Paramahansa Yogananda in the US, is a spiritual movement teaching Kriya Yoga for self-realization.

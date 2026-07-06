@@ -1,3 +1,7 @@
+---
+title: "Māori"
+slug: "maori"
+---
 text# Māori
 ## Introduction
 Māori religion, practiced by the Māori people of New Zealand, is a traditional faith emphasizing gods like Tāne (forest) and Papatūānuku (earth), rooted in *whakapapa* (genealogy). It involves rituals like *powhiri* (welcomes) and carvings at *marae* (meeting houses) to maintain *tapu* (sacredness). Suppressed during colonization, it persists through cultural revival in dances, tattoos (*ta moko*), and storytelling, often blended with Christianity. The religion underscores a deep connection to land and ancestors.

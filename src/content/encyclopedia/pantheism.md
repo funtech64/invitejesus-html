@@ -1,3 +1,7 @@
+---
+title: "Pantheism"
+slug: "pantheism"
+---
 text# Pantheism
 ## Introduction
 Pantheism, a philosophical worldview across cultures, equates God with the universe, emphasizing nature’s divinity without a personal deity.

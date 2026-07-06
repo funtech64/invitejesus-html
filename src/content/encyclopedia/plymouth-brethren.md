@@ -1,3 +1,7 @@
+---
+title: "Plymouth Brethren"
+slug: "plymouth-brethren"
+---
 text# Plymouth Brethren
 ## Introduction
 The Plymouth Brethren, founded in the 1820s by John Nelson Darby in the UK, are a Christian movement emphasizing biblical authority, simplicity, and separation from the world. Split into Exclusive and Open branches, they reject formal clergy, meeting in small assemblies for worship, prayer, and Bible study. Known for dispensationalism, they anticipate Christ’s return and practice strict communal discipline. Their worship includes the Lord’s Supper, often weekly, and they avoid secular influences, fostering a distinct identity. The movement emerged during a period of religious revival, appealing to those seeking a purer Christianity.

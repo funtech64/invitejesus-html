@@ -1,3 +1,7 @@
+---
+title: "Eckankar"
+slug: "eckankar"
+---
 text# Eckankar
 ## Introduction
 Eckankar is a new religious movement founded in 1965 by Paul Twitchell in the US, emphasizing soul travel and divine light and sound. It draws from Sant Mat and Western esotericism.

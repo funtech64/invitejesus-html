@@ -1,3 +1,7 @@
+---
+title: "Shinto"
+slug: "shinto"
+---
 text# Shinto
 ## Introduction
 Shinto is Japan’s indigenous religion, dating back to ancient times, centered on kami (spirits) and harmony with nature. It emphasizes rituals, shrines, and purification, coexisting with Buddhism in Japan.

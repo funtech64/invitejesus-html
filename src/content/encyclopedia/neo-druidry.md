@@ -1,3 +1,7 @@
+---
+title: "Neo-Druidry"
+slug: "neo-druidry"
+---
 text# Neo-Druidry
 ## Introduction
 Neo-Druidry is a modern pagan revival of ancient Celtic spiritual practices, emerging in the 18th century and formalized in the 20th century. It emphasizes nature reverence, ritual, and connection to Celtic heritage, practiced by groups like OBOD and ADF.

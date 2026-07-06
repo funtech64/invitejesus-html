@@ -1,3 +1,7 @@
+---
+title: "Gnosticism (Ancient)"
+slug: "gnosticism-ancient"
+---
 text# Gnosticism (Ancient)
 ## Introduction
 Ancient Gnosticism was a collection of religious movements from the 1st–4th centuries CE, blending Jewish, Christian, and Hellenistic ideas. It emphasized esoteric knowledge (gnosis) for salvation, with texts like the Nag Hammadi scriptures.

@@ -1,3 +1,7 @@
+---
+title: "Bahá’í"
+slug: "bahai"
+---
 text# Bahá’í
 ## Introduction
 The Bahá’í Faith is a monotheistic religion founded in 19th-century Persia by Bahá’u’lláh. It emphasizes unity of God, religion, and humanity, based on Bahá’í scriptures like the *Kitáb-i-Aqdas*.

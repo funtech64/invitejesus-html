@@ -1,3 +1,7 @@
+---
+title: "Zapotec"
+slug: "zapotec"
+---
 text# Zapotec
 ## Introduction
 Zapotec religion, practiced in Mesoamerica (circa 700 BCE–1500 CE), was a polytheistic tradition of the Zapotec people in Oaxaca, Mexico. It emphasized deities, ancestors, and cosmic balance, preserved in archaeological records.

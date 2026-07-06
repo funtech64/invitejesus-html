@@ -1,3 +1,7 @@
+---
+title: "Ananda Marga"
+slug: "ananda-marga"
+---
 text# Ananda Marga
 ## Introduction
 Ananda Marga, founded in 1955 by Prabhat Ranjan Sarkar in India, is a spiritual movement blending yoga, meditation, and social service for self-realization.

@@ -1,3 +1,7 @@
+---
+title: "Discordianism"
+slug: "discordianism"
+---
 text# Discordianism
 ## Introduction
 Discordianism, founded in 1958 by Greg Hill and Kerry Thornley in the US, is a satirical religion centered on Eris, the goddess of chaos, promoting absurdity and freedom.

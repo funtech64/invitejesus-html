@@ -1,3 +1,7 @@
+---
+title: "Toltec"
+slug: "toltec"
+---
 text# Toltec
 ## Introduction
 Toltec religion, practiced in Mesoamerica (circa 900–1168 CE), was a polytheistic tradition influencing Aztec culture. Centered on deities and cosmic balance, it is known from archaeological and textual evidence.

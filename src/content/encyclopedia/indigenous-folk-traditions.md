@@ -1,3 +1,7 @@
+---
+title: "Indigenous & Folk Traditions"
+slug: "indigenous-folk-traditions"
+---
 # Indigenous & Folk Traditions
 
 ## Introduction

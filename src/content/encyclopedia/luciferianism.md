@@ -1,3 +1,7 @@
+---
+title: "Luciferianism"
+slug: "luciferianism"
+---
 text# Luciferianism
 ## Introduction
 Luciferianism is a modern esoteric movement, emerging in the 20th century, viewing Lucifer as a symbol of enlightenment, knowledge, and rebellion against dogma. It emphasizes individualism and spiritual self-discovery, distinct from Satanism.

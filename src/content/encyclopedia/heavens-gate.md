@@ -1,3 +1,7 @@
+---
+title: "Heaven’s Gate"
+slug: "heavens-gate"
+---
 text# Heaven’s Gate
 ## Introduction
 Heaven’s Gate was a UFO-based religious movement founded in the 1970s by Marshall Applewhite and Bonnie Nettles in the United States. It blended Christian and extraterrestrial beliefs, culminating in a mass suicide in 1997 to ascend to a spacecraft.

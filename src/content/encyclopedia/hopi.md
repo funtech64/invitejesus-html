@@ -1,3 +1,7 @@
+---
+title: "Hopi"
+slug: "hopi"
+---
 text# Hopi
 ## Introduction
 The Hopi religion, practiced by the Hopi people in the US Southwest, centers on kachinas (spirits) and harmony with the earth, preserved in ceremonies.

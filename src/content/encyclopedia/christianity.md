@@ -1,3 +1,7 @@
+---
+title: "Christianity"
+slug: "christianity"
+---
 text# Christianity
 ## Introduction
 Christianity, the world’s largest religion, originated in the 1st century CE in Judea, centered on the life and teachings of Jesus Christ. Rooted in Jewish traditions, it spread across the Roman Empire, evolving into diverse denominations like Catholicism, Orthodoxy, and Protestantism. Christians worship in churches, using rituals like the Eucharist and baptism to express faith. The religion has shaped Western civilization, influencing art, law, and ethics, while spreading globally through missions. Despite schisms, it remains unified by core beliefs in Jesus as Savior.

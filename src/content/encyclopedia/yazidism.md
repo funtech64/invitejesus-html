@@ -1,3 +1,7 @@
+---
+title: "Yazidism"
+slug: "yazidism"
+---
 text# Yazidism
 ## Introduction
 Yazidism is a monotheistic religion practiced by the Yazidi people in Iraq, originating around the 12th century CE. It blends Zoroastrian, Islamic, and Christian elements, centered on the Peacock Angel (Melek Taus).

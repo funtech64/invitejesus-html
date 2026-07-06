@@ -1,3 +1,7 @@
+---
+title: "Satanic Temple"
+slug: "satanic-temple"
+---
 text# Satanic Temple
 ## Introduction
 The Satanic Temple, founded in 2013 in the US, promotes atheistic Satanism as a symbol of rebellion, focusing on justice and secularism.

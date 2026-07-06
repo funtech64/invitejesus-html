@@ -1,3 +1,7 @@
+---
+title: "Vodou"
+slug: "vodou"
+---
 text# Vodou
 ## Introduction
 Vodou (Voodoo) is a syncretic religion originating in Haiti during the 18th century, blending West African (Dahomey) spiritual traditions with Catholicism. It emphasizes spirits (lwa), rituals, and community healing.

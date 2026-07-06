@@ -1,3 +1,7 @@
+---
+title: "Baltic Paganism (Dievturība, Romuva)"
+slug: "baltic-paganism"
+---
 text# Baltic Paganism (Dievturība, Romuva)
 ## Introduction
 Baltic Paganism, revived in the 20th century in Lithuania and Latvia, reconstructs pre-Christian Baltic spirituality, emphasizing nature and ancestral gods.

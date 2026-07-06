@@ -1,3 +1,7 @@
+---
+title: "Nation of Islam"
+slug: "nation-of-islam"
+---
 text# Nation of Islam
 ## Introduction
 The Nation of Islam (NOI) is a religious and political movement founded in 1930 by Wallace D. Fard Muhammad in the United States, later led by Elijah Muhammad. It blends Islamic and Black nationalist elements, emphasizing African-American empowerment.

@@ -1,3 +1,7 @@
+---
+title: "Sahaja Yoga"
+slug: "sahaja-yoga"
+---
 text# Sahaja Yoga
 ## Introduction
 Sahaja Yoga, founded in 1970 by Shri Mataji Nirmala Devi in India, is a spiritual movement emphasizing self-realization through Kundalini awakening and meditation.

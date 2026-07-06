@@ -1,3 +1,7 @@
+---
+title: "Hellenism (Reconstructionist)"
+slug: "hellenism-reconstructionist"
+---
 text# Hellenism (Reconstructionist)
 ## Introduction
 Hellenism, revived in the 20th century, is a neo-pagan religion reconstructing ancient Greek spirituality, emphasizing worship of Olympian gods.

@@ -1,3 +1,7 @@
+---
+title: "Temple of the Vampire"
+slug: "temple-of-the-vampire"
+---
 text# Temple of the Vampire
 ## Introduction
 The Temple of the Vampire, founded in 1989 in the US, blends vampirism and esotericism, emphasizing predatory spirituality and immortality.

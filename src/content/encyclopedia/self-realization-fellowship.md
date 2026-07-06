@@ -1,3 +1,7 @@
+---
+title: "Self-Realization Fellowship"
+slug: "self-realization-fellowship"
+---
 text# Self-Realization Fellowship
 ## Introduction
 Self-Realization Fellowship (SRF), founded in 1920 by Paramahansa Yogananda in the US, is a spiritual movement blending Hindu yoga with universal spirituality. Centered on Kriya Yoga, it teaches meditation to realize God within. SRF’s *Autobiography of a Yogi* popularized its teachings, with centers offering retreats and study groups worldwide. It emphasizes unity across religions, appealing to spiritual seekers in the West and India.

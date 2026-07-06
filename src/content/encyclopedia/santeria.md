@@ -1,3 +1,7 @@
+---
+title: "Santería"
+slug: "santeria"
+---
 text# Santería
 ## Introduction
 Santería, developed in Cuba from Yoruba traditions, is a syncretic faith blending Orisha worship with Catholicism.

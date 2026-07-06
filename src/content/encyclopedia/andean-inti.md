@@ -1,3 +1,7 @@
+---
+title: "Andean Inti"
+slug: "andean-inti"
+---
 text# Andean Inti
 ## Introduction
 Andean Inti worship, practiced by Indigenous peoples in Peru, Bolivia, and Ecuador, is a traditional religion centered on Inti, the sun god, revered as the source of life and fertility. Originating in the Inca Empire, this faith integrates cosmology with agricultural cycles, with festivals like Inti Raymi celebrating solar renewal. Priests, or *yayas*, conduct rituals at sacred sites like Machu Picchu, offering coca leaves and chicha to honor Inti and ensure prosperity. Despite colonial suppression, Inti worship persists among Quechua and Aymara communities, often blending with Catholic elements.

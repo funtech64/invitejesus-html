@@ -1,3 +1,7 @@
+---
+title: "Hellenism (Greek Revival)"
+slug: "hellenism"
+---
 text# Hellenism (Greek Revival)
 ## Introduction
 Hellenism, or Hellenic Polytheism, is a modern revival of ancient Greek religion, emerging in the late 20th century. It honors the Olympian gods and emphasizes ritual, philosophy, and connection to Greek heritage.

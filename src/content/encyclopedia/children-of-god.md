@@ -1,3 +1,7 @@
+---
+title: "Children of God (Family International)"
+slug: "children-of-god"
+---
 text# Children of God (Family International)
 ## Introduction
 The Children of God, later called the Family International, is a new religious movement founded in 1968 by David Berg in the United States. Rooted in Christianity, it emphasizes communal living, evangelism, and controversial practices like "flirty fishing."

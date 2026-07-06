@@ -1,3 +1,7 @@
+---
+title: "San"
+slug: "san"
+---
 text# San
 ## Introduction
 San (Bushman) religion is the indigenous spiritual tradition of the San people in southern Africa (Botswana, Namibia, South Africa), centered on animism, shamanism, and connection to nature. It emphasizes oral traditions and trance dances.

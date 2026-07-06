@@ -1,3 +1,7 @@
+---
+title: "Zoroastrianism"
+slug: "zoroastrianism"
+---
 text# Zoroastrianism
 ## Introduction
 Zoroastrianism is a monotheistic religion founded by Zoroaster (Zarathustra) in ancient Persia (circa 1500–600 BCE). Based on the Avesta, it emphasizes the struggle between good and evil, influencing Abrahamic religions.

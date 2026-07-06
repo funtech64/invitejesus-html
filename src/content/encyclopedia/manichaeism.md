@@ -1,3 +1,7 @@
+---
+title: "Manichaeism"
+slug: "manichaeism"
+---
 text# Manichaeism
 ## Introduction
 Manichaeism was a dualistic religion founded in the 3rd century CE by Mani in Persia, blending Zoroastrian, Christian, and Gnostic elements. It emphasized the cosmic struggle between light and darkness, spreading across the Roman Empire and Asia.

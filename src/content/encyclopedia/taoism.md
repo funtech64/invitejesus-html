@@ -1,3 +1,7 @@
+---
+title: "Taoism"
+slug: "taoism"
+---
 text# Taoism
 ## Introduction
 Taoism (Daoism) is an ancient Chinese spiritual tradition, originating around the 4th century BCE with texts like the *Tao Te Ching* by Laozi. It emphasizes living in harmony with the Tao (the Way), a cosmic principle of balance and flow.

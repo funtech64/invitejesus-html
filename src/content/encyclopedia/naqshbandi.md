@@ -1,3 +1,7 @@
+---
+title: "Naqshbandi"
+slug: "naqshbandi"
+---
 text# Naqshbandi
 ## Introduction
 The Naqshbandi Order, founded in the 14th century by Baha-ud-Din Naqshband in Central Asia, is a Sufi order emphasizing silent dhikr and spiritual discipline within Sunni Islam.

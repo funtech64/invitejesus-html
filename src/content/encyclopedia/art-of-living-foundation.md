@@ -1,3 +1,7 @@
+---
+title: "Art of Living Foundation"
+slug: "art-of-living-foundation"
+---
 text# Art of Living Foundation
 ## Introduction
 The Art of Living Foundation, founded in 1981 by Sri Sri Ravi Shankar in India, is a spiritual movement promoting Sudarshan Kriya (breathing techniques) for stress relief and spiritual growth. Blending Vedic traditions with universal spirituality, it offers workshops, meditation, and humanitarian projects worldwide. The foundation emphasizes inner peace and service, appealing to diverse audiences seeking holistic well-being. Centers in over 150 countries foster community and personal transformation through yoga and breathing practices.

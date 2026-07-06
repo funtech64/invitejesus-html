@@ -1,3 +1,7 @@
+---
+title: "Atheism"
+slug: "atheism"
+---
 text# Atheism
 ## Introduction
 Atheism, a worldview rejecting belief in gods, emerged historically across cultures, emphasizing reason and evidence over faith.

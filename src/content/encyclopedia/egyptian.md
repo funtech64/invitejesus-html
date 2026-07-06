@@ -1,3 +1,7 @@
+---
+title: "Egyptian"
+slug: "egyptian"
+---
 text# Egyptian
 ## Introduction
 Ancient Egyptian religion, practiced from circa 3000–300 BCE, was a polytheistic tradition centered on deities controlling cosmic and earthly forces. It influenced Mediterranean cultures through its myths, art, and rituals.

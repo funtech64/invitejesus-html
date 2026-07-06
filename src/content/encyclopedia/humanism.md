@@ -1,3 +1,7 @@
+---
+title: "Humanism"
+slug: "humanism"
+---
 text# Humanism
 ## Introduction
 Humanism, rooted in Renaissance philosophy, is a secular worldview emphasizing human potential, reason, and ethics without reliance on religion.

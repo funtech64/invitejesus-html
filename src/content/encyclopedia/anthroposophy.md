@@ -1,3 +1,7 @@
+---
+title: "Anthroposophy"
+slug: "anthroposophy"
+---
 text# Anthroposophy
 ## Introduction
 Anthroposophy, founded in 1913 by Rudolf Steiner in Europe, is a spiritual philosophy emphasizing human spiritual development and cosmic wisdom, rooted in Theosophy.

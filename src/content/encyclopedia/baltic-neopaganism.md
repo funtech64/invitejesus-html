@@ -1,3 +1,7 @@
+---
+title: "Baltic Neopaganism (Dievturība, Romuva)"
+slug: "baltic-neopaganism"
+---
 text# Baltic Neopaganism (Dievturība, Romuva)
 ## Introduction
 Baltic Neopaganism, including Dievturība (Latvia) and Romuva (Lithuania), is a modern revival of pre-Christian Baltic paganism, emerging in the 20th century. It honors Baltic gods and emphasizes nature, folklore, and cultural heritage.

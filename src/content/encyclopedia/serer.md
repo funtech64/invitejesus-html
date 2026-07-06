@@ -1,3 +1,7 @@
+---
+title: "Serer"
+slug: "serer"
+---
 text# Serer
 ## Introduction
 The Serer religion, practiced by the Serer people of Senegal and Gambia, centers on Roog (supreme creator) and ancestral spirits.

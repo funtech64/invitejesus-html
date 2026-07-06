@@ -1,3 +1,7 @@
+---
+title: "Tenrikyo"
+slug: "tenrikyo"
+---
 text# Tenrikyo
 ## Introduction
 Tenrikyo is a Japanese religion founded in 1838 by Nakayama Miki, emphasizing joy and divine providence. Based on the *Ofudesaki*, it blends Shinto and Buddhist elements.

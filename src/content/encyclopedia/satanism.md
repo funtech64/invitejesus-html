@@ -1,3 +1,7 @@
+---
+title: "Satanism"
+slug: "satanism"
+---
 text# Satanism
 ## Introduction
 Satanism encompasses various modern movements, primarily LaVeyan Satanism (founded 1966 by Anton LaVey) and Theistic Satanism. It ranges from atheistic philosophy to spiritual worship of Satan, often rejecting mainstream religious norms.

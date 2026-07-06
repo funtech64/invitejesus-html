@@ -1,3 +1,7 @@
+---
+title: "Sekai Kyusei Kyo"
+slug: "sekai-kyusei-kyo"
+---
 text# Sekai Kyusei Kyo
 ## Introduction
 Sekai Kyusei Kyo (World Messianity), founded in 1935 by Mokichi Okada in Japan, is a new religious movement emphasizing healing and paradise on Earth through Johrei.

@@ -1,3 +1,7 @@
+---
+title: "Buddhism"
+slug: "buddhism"
+---
 text# Buddhism
 ## Introduction
 Buddhism, founded in the 5th century BCE by Siddhartha Gautama (the Buddha) in India, is a non-theistic religion emphasizing enlightenment through the Four Noble Truths and Eightfold Path. Branches like Theravāda, Mahāyāna, and Vajrayāna vary in practice. Buddhists meditate and worship at stupas or temples, influencing art, philosophy, and ethics across Asia and beyond.

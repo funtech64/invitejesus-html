@@ -1,3 +1,7 @@
+---
+title: "Wicca (Eclectic)"
+slug: "wicca-eclectic"
+---
 text# Wicca (Eclectic)
 ## Introduction
 Eclectic Wicca, emerging in the 20th century, is a neo-pagan religion blending various Wiccan traditions, emphasizing personal spirituality and flexible rituals.

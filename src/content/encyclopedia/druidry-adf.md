@@ -1,3 +1,7 @@
+---
+title: "Druidry (Ár nDraíocht Féin)"
+slug: "druidry-adf"
+---
 text# Druidry (Ár nDraíocht Féin)
 ## Introduction
 Ár nDraíocht Féin (ADF), founded in 1983 by Isaac Bonewits in the US, is a neo-pagan Druidry movement emphasizing Celtic and Indo-European spirituality.

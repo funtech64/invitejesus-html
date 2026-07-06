@@ -1,3 +1,7 @@
+---
+title: "Unity Church"
+slug: "unity-church"
+---
 text# Unity Church
 ## Introduction
 Unity Church, founded in 1889 by Charles and Myrtle Fillmore in the US, is a New Thought movement emphasizing positive thinking, prayer, and spiritual unity.

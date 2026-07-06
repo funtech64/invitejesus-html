@@ -1,3 +1,7 @@
+---
+title: "Hawaiian"
+slug: "hawaiian"
+---
 text# Hawaiian
 ## Introduction
 Hawaiian religion, the traditional spiritual system of Native Hawaiians, centers on gods like Kāne (creator) and Pele (volcano goddess), emphasizing harmony with nature and ancestral spirits. Rooted in Polynesian traditions, it involves rituals at *heiau* (temples), hula dances, and offerings to maintain *mana* (spiritual power). Suppressed by 19th-century missionaries, it persists through cultural revival in practices like lei-making and chants, often blended with Christianity. Sacred sites like volcanoes and springs remain central to worship, reflecting a deep connection to the land and sea.

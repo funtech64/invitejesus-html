@@ -1,3 +1,7 @@
+---
+title: "Druidry (OBOD)"
+slug: "druidry-obod"
+---
 text# Druidry (OBOD)
 ## Introduction
 Druidry (Order of Bards, Ovates, and Druids), founded in 1964 in the UK, is a neo-pagan movement reviving Celtic spirituality, emphasizing nature and creativity.

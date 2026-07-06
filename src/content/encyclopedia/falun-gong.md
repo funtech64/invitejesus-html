@@ -1,3 +1,7 @@
+---
+title: "Falun Gong"
+slug: "falun-gong"
+---
 text# Falun Gong
 ## Introduction
 Falun Gong (Falun Dafa) is a Chinese spiritual movement founded in 1992 by Li Hongzhi, blending qigong exercises with Buddhist and Taoist principles. It emphasizes truth, compassion, and forbearance.

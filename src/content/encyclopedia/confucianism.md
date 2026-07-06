@@ -1,3 +1,7 @@
+---
+title: "Confucianism"
+slug: "confucianism"
+---
 text# Confucianism
 ## Introduction
 Confucianism is a Chinese philosophical and spiritual tradition, founded by Confucius in the 5th century BCE. Based on texts like the *Analects*, it emphasizes ethical living, social harmony, and respect for tradition, often functioning as a quasi-religion.

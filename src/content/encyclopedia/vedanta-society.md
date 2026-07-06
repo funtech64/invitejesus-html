@@ -1,3 +1,7 @@
+---
+title: "Vedanta Society"
+slug: "vedanta-society"
+---
 text# Vedanta Society
 ## Introduction
 The Vedanta Society, founded in 1894 by Swami Vivekananda in the US, is a spiritual movement promoting Vedanta philosophy, emphasizing universal spirituality and self-realization. Rooted in Hindu Advaita Vedanta, it teaches that all religions lead to the same truth. Centers offer meditation, lectures, and *puja*, with a focus on interfaith harmony. Vivekananda’s global influence, starting at the 1893 Chicago Parliament, made it a bridge between East and West.

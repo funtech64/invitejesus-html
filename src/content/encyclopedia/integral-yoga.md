@@ -1,3 +1,7 @@
+---
+title: "Integral Yoga"
+slug: "integral-yoga"
+---
 text# Integral Yoga
 ## Introduction
 Integral Yoga, founded in the 20th century by Sri Aurobindo and The Mother in India, is a spiritual movement integrating physical, mental, and spiritual practices for divine transformation. Based in Pondicherry, it emphasizes yoga, meditation, and communal living at the Auroville ashram to evolve human consciousness. Aurobindo’s teachings blend Hindu philosophy with evolutionary theory, attracting global followers seeking spiritual growth and universal harmony.

@@ -1,3 +1,7 @@
+---
+title: "Rastafarianism"
+slug: "rastafarianism"
+---
 text# Rastafarianism
 ## Introduction
 Rastafarianism is a 20th-century Jamaican religious movement, emerging in the 1930s, inspired by Marcus Garvey and the crowning of Haile Selassie I as Emperor of Ethiopia. It blends Christian elements with African identity and social justice.
