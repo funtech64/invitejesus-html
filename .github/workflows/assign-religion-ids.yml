@@ -1,0 +1,40 @@
+name: Assign religion IDs and hashes
+
+on:
+  push:
+    branches:
+      - agent/assign-religion-ids
+    paths:
+      - 'scripts/assign-religion-ids.mjs'
+      - 'src/content/encyclopedia/**'
+      - '.github/workflows/assign-religion-ids.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  assign:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out branch
+        uses: actions/checkout@v4
+        with:
+          ref: agent/assign-religion-ids
+          fetch-depth: 0
+
+      - name: Attribute stable REL numbers and generate SHA-256 registry
+        run: node scripts/assign-religion-ids.mjs
+
+      - name: Commit generated attribution
+        run: |
+          if git diff --quiet; then
+            echo 'Religion IDs and hashes are already current.'
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/content/encyclopedia src/data/religion-registry.json
+          git commit -m 'Assign REL identifiers and SHA-256 hashes'
+          git push
