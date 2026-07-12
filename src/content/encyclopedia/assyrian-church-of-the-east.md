@@ -1,4 +1,5 @@
 ---
+relId: REL-018
 title: "Assyrian Church of the East"
 slug: "assyrian-church-of-the-east"
 ---

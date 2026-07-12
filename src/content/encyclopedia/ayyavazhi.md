@@ -1,4 +1,5 @@
 ---
+relId: REL-021
 title: "Ayyavazhi"
 slug: "ayyavazhi"
 ---

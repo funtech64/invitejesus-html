@@ -1,4 +1,5 @@
 ---
+relId: REL-053
 title: "Daejonggyo"
 slug: "daejonggyo"
 ---

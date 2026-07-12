@@ -1,4 +1,5 @@
 ---
+relId: REL-030
 title: "Buddhism"
 slug: "buddhism"
 ---

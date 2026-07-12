@@ -1,4 +1,5 @@
 ---
+relId: REL-048
 title: "Church of Satan (LaVeyan)"
 slug: "church-of-satan"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-161
 title: "San/Khoisan Traditional Beliefs"
 slug: "san-khoisan"
 ---

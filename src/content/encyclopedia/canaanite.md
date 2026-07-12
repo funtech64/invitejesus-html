@@ -1,4 +1,5 @@
 ---
+relId: REL-032
 title: "Canaanite"
 slug: "canaanite"
 ---

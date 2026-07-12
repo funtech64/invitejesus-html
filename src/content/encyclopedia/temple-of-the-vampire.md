@@ -1,4 +1,5 @@
 ---
+relId: REL-189
 title: "Temple of the Vampire"
 slug: "temple-of-the-vampire"
 ---

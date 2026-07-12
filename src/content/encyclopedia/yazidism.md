@@ -1,4 +1,5 @@
 ---
+relId: REL-211
 title: "Yazidism"
 slug: "yazidism"
 ---

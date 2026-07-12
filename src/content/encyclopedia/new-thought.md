@@ -1,4 +1,5 @@
 ---
+relId: REL-125
 title: "New Thought"
 slug: "new-thought"
 ---

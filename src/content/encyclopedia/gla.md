@@ -1,4 +1,5 @@
 ---
+relId: REL-068
 title: "God Light Association (GLA)"
 slug: "gla"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-100
 title: "Lakota Sun Dance"
 slug: "lakota-sun-dance"
 ---

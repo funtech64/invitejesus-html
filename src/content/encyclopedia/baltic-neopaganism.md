@@ -1,4 +1,5 @@
 ---
+relId: REL-025
 title: "Baltic Neopaganism (Dievturība, Romuva)"
 slug: "baltic-neopaganism"
 ---

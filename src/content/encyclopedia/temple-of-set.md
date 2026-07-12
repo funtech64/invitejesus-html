@@ -1,4 +1,5 @@
 ---
+relId: REL-188
 title: "Temple of Set"
 slug: "temple-of-set"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-023
 title: "Bahá’í Faith"
 slug: "bahai-faith"
 ---

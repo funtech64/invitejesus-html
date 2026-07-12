@@ -1,4 +1,5 @@
 ---
+relId: REL-171
 title: "Scientology"
 slug: "scientology"
 ---

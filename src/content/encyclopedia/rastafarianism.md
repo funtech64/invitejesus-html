@@ -1,4 +1,5 @@
 ---
+relId: REL-151
 title: "Rastafarianism"
 slug: "rastafarianism"
 ---

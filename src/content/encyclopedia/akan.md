@@ -1,4 +1,5 @@
 ---
+relId: REL-008
 title: "Akan"
 slug: "akan"
 ---

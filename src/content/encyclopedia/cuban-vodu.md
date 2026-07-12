@@ -1,4 +1,5 @@
 ---
+relId: REL-052
 title: "Cuban Vodú"
 slug: "cuban-vodu"
 ---

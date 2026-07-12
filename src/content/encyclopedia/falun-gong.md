@@ -1,4 +1,5 @@
 ---
+relId: REL-065
 title: "Falun Gong"
 slug: "falun-gong"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-074
 title: "Haitian Vodou"
 slug: "haitian-vodou"
 ---

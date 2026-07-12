@@ -1,4 +1,5 @@
 ---
+relId: REL-049
 title: "Church of the SubGenius"
 slug: "church-of-the-subgenius"
 ---

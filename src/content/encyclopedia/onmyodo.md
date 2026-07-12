@@ -1,4 +1,5 @@
 ---
+relId: REL-133
 title: "Onmyōdō"
 slug: "onmyodo"
 ---

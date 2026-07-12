@@ -1,4 +1,5 @@
 ---
+relId: REL-149
 title: "Rajneesh/Osho"
 slug: "rajneesh-osho"
 ---

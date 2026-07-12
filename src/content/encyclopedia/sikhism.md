@@ -1,4 +1,5 @@
 ---
+relId: REL-181
 title: "Sikhism"
 slug: "sikhism"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-107
 title: "Mahikari"
 slug: "mahikari"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-059
 title: "Druidry (Ár nDraíocht Féin)"
 slug: "druidry-adf"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-069
 title: "Gnosticism (Ancient)"
 slug: "gnosticism-ancient"
 ---

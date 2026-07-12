@@ -1,4 +1,5 @@
 ---
+relId: REL-190
 title: "Tenrikyo"
 slug: "tenrikyo"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-003
 title: "Africa (Traditional Religions)"
 slug: "africa-folk"
 ---

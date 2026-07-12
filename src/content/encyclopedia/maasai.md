@@ -1,4 +1,5 @@
 ---
+relId: REL-106
 title: "Maasai Religion"
 slug: "maasai"
 ---

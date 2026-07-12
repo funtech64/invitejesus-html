@@ -1,4 +1,5 @@
 ---
+relId: REL-038
 title: "Cheondoism"
 slug: "cheondoism"
 ---

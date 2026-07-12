@@ -1,4 +1,5 @@
 ---
+relId: REL-186
 title: "Swedenborgians"
 slug: "swedenborgians"
 ---

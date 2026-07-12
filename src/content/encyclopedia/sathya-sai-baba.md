@@ -1,4 +1,5 @@
 ---
+relId: REL-170
 title: "Sathya Sai Baba Movement"
 slug: "sathya-sai-baba"
 ---

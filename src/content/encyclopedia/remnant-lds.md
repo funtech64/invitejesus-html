@@ -1,4 +1,5 @@
 ---
+relId: REL-153
 title: "Remnant Church of Jesus Christ"
 slug: "remnant-lds"
 ---

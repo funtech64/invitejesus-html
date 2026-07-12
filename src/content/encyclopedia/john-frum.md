@@ -1,4 +1,5 @@
 ---
+relId: REL-096
 title: "John Frum"
 slug: "john-frum"
 ---

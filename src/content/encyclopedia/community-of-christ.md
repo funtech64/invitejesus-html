@@ -1,4 +1,5 @@
 ---
+relId: REL-050
 title: "Community of Christ"
 slug: "community-of-christ"
 ---

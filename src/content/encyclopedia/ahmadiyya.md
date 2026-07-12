@@ -1,4 +1,5 @@
 ---
+relId: REL-007
 title: "Ahmadiyya"
 slug: "ahmadiyya"
 ---

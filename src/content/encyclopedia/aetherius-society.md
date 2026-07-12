@@ -1,4 +1,5 @@
 ---
+relId: REL-002
 title: "Aetherius Society"
 slug: "aetherius-society"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-067
 title: "Fundamentalist LDS"
 slug: "flds"
 ---

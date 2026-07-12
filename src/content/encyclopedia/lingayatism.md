@@ -1,4 +1,5 @@
 ---
+relId: REL-104
 title: "Lingayatism"
 slug: "lingayatism"
 ---

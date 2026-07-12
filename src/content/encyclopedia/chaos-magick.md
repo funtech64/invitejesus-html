@@ -1,4 +1,5 @@
 ---
+relId: REL-037
 title: "Chaos Magick"
 slug: "chaos-magick"
 ---

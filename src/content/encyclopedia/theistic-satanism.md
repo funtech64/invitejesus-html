@@ -1,4 +1,5 @@
 ---
+relId: REL-191
 title: "Theistic Satanism"
 slug: "theistic-satanism"
 ---

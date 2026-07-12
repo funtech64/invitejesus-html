@@ -1,4 +1,5 @@
 ---
+relId: REL-174
 title: "Seicho-No-Ie"
 slug: "seicho-no-ie"
 ---

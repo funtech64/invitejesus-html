@@ -1,4 +1,5 @@
 ---
+relId: REL-041
 title: "Chinese Folk Religion"
 slug: "chinese-folk-religion"
 ---

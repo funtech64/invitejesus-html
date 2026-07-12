@@ -1,4 +1,5 @@
 ---
+relId: REL-160
 title: "Samaritanism"
 slug: "samaritanism"
 ---

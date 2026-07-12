@@ -1,4 +1,5 @@
 ---
+relId: REL-185
 title: "Swedenborgianism"
 slug: "swedenborgianism"
 ---

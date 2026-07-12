@@ -1,4 +1,5 @@
 ---
+relId: REL-082
 title: "Hermetic Order of the Golden Dawn"
 slug: "hermetic-order-of-the-golden-dawn"
 ---

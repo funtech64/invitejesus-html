@@ -1,4 +1,5 @@
 ---
+relId: REL-024
 title: "Bahá’í"
 slug: "bahai"
 ---

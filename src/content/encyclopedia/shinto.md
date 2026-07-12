@@ -1,4 +1,5 @@
 ---
+relId: REL-180
 title: "Shinto"
 slug: "shinto"
 ---

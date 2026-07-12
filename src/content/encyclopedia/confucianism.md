@@ -1,4 +1,5 @@
 ---
+relId: REL-051
 title: "Confucianism"
 slug: "confucianism"
 ---

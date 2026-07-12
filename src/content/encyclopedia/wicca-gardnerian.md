@@ -1,4 +1,5 @@
 ---
+relId: REL-207
 title: "Wicca (Gardnerian)"
 slug: "wicca-gardnerian"
 ---

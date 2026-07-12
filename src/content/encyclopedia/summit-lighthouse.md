@@ -1,4 +1,5 @@
 ---
+relId: REL-184
 title: "Summit Lighthouse"
 slug: "summit-lighthouse"
 ---

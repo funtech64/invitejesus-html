@@ -1,4 +1,5 @@
 ---
+relId: REL-122
 title: "Native American Religions"
 slug: "native-american-religions"
 ---

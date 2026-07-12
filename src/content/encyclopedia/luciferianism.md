@@ -1,4 +1,5 @@
 ---
+relId: REL-105
 title: "Luciferianism"
 slug: "luciferianism"
 ---

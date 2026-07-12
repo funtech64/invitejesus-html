@@ -1,4 +1,5 @@
 ---
+relId: REL-026
 title: "Baltic Paganism (Dievturība, Romuva)"
 slug: "baltic-paganism"
 ---

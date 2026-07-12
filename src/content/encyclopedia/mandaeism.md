@@ -1,4 +1,5 @@
 ---
+relId: REL-108
 title: "Mandaeism"
 slug: "mandaeism"
 ---

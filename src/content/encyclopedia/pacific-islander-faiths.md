@@ -1,4 +1,5 @@
 ---
+relId: REL-138
 title: "Pacific Islander Traditional Religions"
 slug: "pacific-islander-faiths"
 ---

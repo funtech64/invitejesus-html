@@ -1,4 +1,5 @@
 ---
+relId: REL-136
 title: "Osho/Rajneesh Movement"
 slug: "osho-rajneesh-movement"
 ---

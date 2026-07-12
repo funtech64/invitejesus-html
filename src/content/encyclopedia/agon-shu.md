@@ -1,4 +1,5 @@
 ---
+relId: REL-006
 title: "Agon Shu"
 slug: "agon-shu"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-070
 title: "Gnosticism (Modern Revivals)"
 slug: "gnosticism"
 ---

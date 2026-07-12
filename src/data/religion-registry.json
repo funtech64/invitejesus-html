@@ -1,0 +1,1091 @@
+{
+  "schemaVersion": 1,
+  "namespace": "REL",
+  "hashAlgorithm": "SHA-256",
+  "hashScope": "Exact UTF-8 bytes of each canonical Markdown file after relId attribution",
+  "assignmentRule": "Existing IDs are preserved. New IDs use the lowest unused number; the initial corpus is assigned by case-insensitive alphabetical path order.",
+  "sourceDirectory": "src/content/encyclopedia",
+  "count": 216,
+  "entries": [
+    {
+      "id": "REL-001",
+      "path": "aboriginal-dreamtime.md",
+      "sha256": "e72ce54607c7ad7c3a21b8e93b3c13eaa156ce61e2503e526f96b3a0daed2b73"
+    },
+    {
+      "id": "REL-002",
+      "path": "aetherius-society.md",
+      "sha256": "b10b37e9bc3e5347a68b9ad9c0eb604d2de9e1fab2a26c4a6a0706d6a26769b0"
+    },
+    {
+      "id": "REL-003",
+      "path": "africa-folk.md",
+      "sha256": "287040b83ca7304fae18e17ec09134fde252feee920f6acfd3d513570523dc64"
+    },
+    {
+      "id": "REL-004",
+      "path": "africa-traditional-religions.md",
+      "sha256": "90f03fb395b875c4ec92fab9e653e0482309254f3a89b99ebda0fe6ea7fa5577"
+    },
+    {
+      "id": "REL-005",
+      "path": "agnosticism.md",
+      "sha256": "2b10aa572de800a65bdc9ea90d5ad3df0e160ccbf20bd0f1ccd862e422e3b5a7"
+    },
+    {
+      "id": "REL-006",
+      "path": "agon-shu.md",
+      "sha256": "b163605d3e1595eb87a5206ef8b11c476c532486cd161f4ca29819f88afc1390"
+    },
+    {
+      "id": "REL-007",
+      "path": "ahmadiyya.md",
+      "sha256": "14841b5b54fb73f25bddb7649b1770ecc82c53fb5d87f3fda8e615e63e899db4"
+    },
+    {
+      "id": "REL-008",
+      "path": "akan.md",
+      "sha256": "2dc811b8194a6e1c8a0ecb926569949dc64f9d5e160619b0ae7a2ecf28452790"
+    },
+    {
+      "id": "REL-009",
+      "path": "aladura-churches.md",
+      "sha256": "b418d1ae3352d31779bf7bfdffa29d899e2a8ffc98bc753bd1679ed8732b59b7"
+    },
+    {
+      "id": "REL-010",
+      "path": "alawites.md",
+      "sha256": "a9c0979c460b5db791c1492ed0a273a27c48f8e5e2bd4850f48fb003e6b42e57"
+    },
+    {
+      "id": "REL-011",
+      "path": "americas-traditional-syncretic.md",
+      "sha256": "3c070702177427c5bec1241673f871baea99311468b6d4fe67607ee4a13151c5"
+    },
+    {
+      "id": "REL-012",
+      "path": "ananda-marga.md",
+      "sha256": "0231de080e38f158f75c33be196dcac9e1851132a4a78fa032d64bc0366ec9d7"
+    },
+    {
+      "id": "REL-013",
+      "path": "ancient-church-of-the-east.md",
+      "sha256": "31e7c75d8041be9d8b31b3d869e9103b1402f08a998acd3944fdcd0f4bd0adbd"
+    },
+    {
+      "id": "REL-014",
+      "path": "andean-inti.md",
+      "sha256": "857abfef2937b7928623802918c8ca07956da0791c6eb70edc04bc197352068b"
+    },
+    {
+      "id": "REL-015",
+      "path": "andean.md",
+      "sha256": "d043b14769c3a7b7b6a06aa4116e7c4122e27fdbbb2c5ab2536e2bc8314b9a70"
+    },
+    {
+      "id": "REL-016",
+      "path": "anthroposophy.md",
+      "sha256": "84b498f78b1e3be1a60cddc5b3f01651e138acb08a0e5bcfdbd90cdfd2286682"
+    },
+    {
+      "id": "REL-017",
+      "path": "art-of-living-foundation.md",
+      "sha256": "e5e5f23c7dfc394530ae2cc1a54f37c62eee6b714222df38f2ee2ae91b5d22f9"
+    },
+    {
+      "id": "REL-018",
+      "path": "assyrian-church-of-the-east.md",
+      "sha256": "6b6d1f43a772f0dff4807726f17812a733a14114b09e3f179894a470609a1fdf"
+    },
+    {
+      "id": "REL-019",
+      "path": "atheism.md",
+      "sha256": "9c341f4eda1dddbf8caf87c2f25fcab3c538e9662388cffa8c37168890696113"
+    },
+    {
+      "id": "REL-020",
+      "path": "aum-shinrikyo.md",
+      "sha256": "984f1d3721e155dd4e9c2c8923d95ca603db1685bf951a941c4b0835086397a2"
+    },
+    {
+      "id": "REL-021",
+      "path": "ayyavazhi.md",
+      "sha256": "7f3af8a9d755bd6a5ba60fd9249a18b9f09593a0efd313a705a7b366275f0dbe"
+    },
+    {
+      "id": "REL-022",
+      "path": "aztec.md",
+      "sha256": "1cd67a25a4931e43b14b8cd485de0f85c451275d8308e6efdf630c6287d1b583"
+    },
+    {
+      "id": "REL-023",
+      "path": "bahai-faith.md",
+      "sha256": "e06d3d1b6f3abc702bbba0465bc97afa34a43742befde5a6c88a58b073d884ae"
+    },
+    {
+      "id": "REL-024",
+      "path": "bahai.md",
+      "sha256": "f57fa8c10d43fb0983de23aee6288c40975851c72cdf16c128a128867890236e"
+    },
+    {
+      "id": "REL-025",
+      "path": "baltic-neopaganism.md",
+      "sha256": "2fba7ede8133baed7baa524195d4a92c7e187ca1893711f7a0f2e2941e7b4181"
+    },
+    {
+      "id": "REL-026",
+      "path": "baltic-paganism.md",
+      "sha256": "9bc01815ae51bac6e2a4dc0dcd41c1557d04af8a46c023515391d271033c26d5"
+    },
+    {
+      "id": "REL-027",
+      "path": "baltic.md",
+      "sha256": "29e58c08debf44ac69ed77ba9abb3978490432f550375a0f77328eac39bdb671"
+    },
+    {
+      "id": "REL-028",
+      "path": "bektashi.md",
+      "sha256": "546205bad0a1b6f6518143563150f0cd8b61ec336bc11ba4c8b08ce868e62578"
+    },
+    {
+      "id": "REL-029",
+      "path": "brahma-kumaris.md",
+      "sha256": "af9a7425ffbd9d0525be7eecbea91b65276677f8f00d24a72f310bd90f8ab4fd"
+    },
+    {
+      "id": "REL-030",
+      "path": "buddhism.md",
+      "sha256": "2593850cd0b83c495d46f6ff3a48246307ef5448db430b8219717adf837d4608"
+    },
+    {
+      "id": "REL-031",
+      "path": "builders-of-the-adytum.md",
+      "sha256": "b7b11c741fb77558fe8573f4ad2aeddcbf781186579b567ec401363ce56c608e"
+    },
+    {
+      "id": "REL-032",
+      "path": "canaanite.md",
+      "sha256": "75885c5a1e584eebcfdd258282a743742c67cff7e540d806f3d1ac733e128205"
+    },
+    {
+      "id": "REL-033",
+      "path": "candomble.md",
+      "sha256": "f4e8b37cb4b5a34ec71520fca8f48452d4b0c0db24c3c5255619ad9d524cb286"
+    },
+    {
+      "id": "REL-034",
+      "path": "cao-dai.md",
+      "sha256": "709a2fefe1053e1cf02ad02bf9708b2485fd4e92c356101cbaa9efd64c9d76ce"
+    },
+    {
+      "id": "REL-035",
+      "path": "celtic-reconstructionism.md",
+      "sha256": "f03e83a8861dd5edd0152232e1dba853445b9243a9b53519706b2294fa8c0dc3"
+    },
+    {
+      "id": "REL-036",
+      "path": "celtic.md",
+      "sha256": "42e325e51cdee0943b1138bb50c9a97eff3e0798162066dc74afdee7f8835700"
+    },
+    {
+      "id": "REL-037",
+      "path": "chaos-magick.md",
+      "sha256": "5c64e912dc5e5d4a522800a628ce9f85c4d48cf0f8f17ce26d64f7feaa153e02"
+    },
+    {
+      "id": "REL-038",
+      "path": "cheondoism.md",
+      "sha256": "3362faa51d7d091aed4904a704984820b1fe4bb62b2757a9d9522f230bec46a1"
+    },
+    {
+      "id": "REL-039",
+      "path": "cherokee.md",
+      "sha256": "9cde9d3d01c2e1fa5ab6607a00dec9253a118be6520a73de0db4641ecb352ae7"
+    },
+    {
+      "id": "REL-040",
+      "path": "children-of-god.md",
+      "sha256": "007b018418236e6c7381c3f8dbaaf38fcb6fb2306141afe2d1bef37f6aa2c36d"
+    },
+    {
+      "id": "REL-041",
+      "path": "chinese-folk-religion.md",
+      "sha256": "1b85642328e338a6a73fa0045bd08c7905c616086442e2be877e64c3ea2c3c64"
+    },
+    {
+      "id": "REL-042",
+      "path": "chishti.md",
+      "sha256": "03703312a1d374fd1d6151e5c1b43b2473f19b9b802f5b7fc863e1e18bfbfc9e"
+    },
+    {
+      "id": "REL-043",
+      "path": "christadelphians.md",
+      "sha256": "9dc3b185a6a503ecf07c6799843fa38b2f90c0faa184f4556b600f170dee9595"
+    },
+    {
+      "id": "REL-044",
+      "path": "christian-science.md",
+      "sha256": "ff9cf813e48fe9847ce48d27eb682f199b61c43020ca4b3c86fc4c934534807f"
+    },
+    {
+      "id": "REL-045",
+      "path": "christianity.md",
+      "sha256": "c8f617a05b2f3307cf3deb5d3bc42f7289a6bcc0b0dc591bc0de3da33dcb8e4b"
+    },
+    {
+      "id": "REL-046",
+      "path": "church-of-all-worlds.md",
+      "sha256": "2779b9bfd4440e448bec7aa2a6cef5a651381a59d923e11b8c7b94f8bdd346af"
+    },
+    {
+      "id": "REL-047",
+      "path": "church-of-perfect-liberty.md",
+      "sha256": "49271e93584bf0204340c04ea6e885fb86077ea45e1448ac73278d5620595b85"
+    },
+    {
+      "id": "REL-048",
+      "path": "church-of-satan.md",
+      "sha256": "2d26923c7bf0e3c39ef8d0303aa3d0a00bbc25043cdd3ca11ffeb2eefad75a8f"
+    },
+    {
+      "id": "REL-049",
+      "path": "church-of-the-subgenius.md",
+      "sha256": "2988eb0344e6a84f6946e6ba60ea58c67c6cadd9434c81d11e30a0b9a7938aa4"
+    },
+    {
+      "id": "REL-050",
+      "path": "community-of-christ.md",
+      "sha256": "e84a3c6b0d3025e1774ea163319256077a74a63e5d80ec42d1637cbfa5995301"
+    },
+    {
+      "id": "REL-051",
+      "path": "confucianism.md",
+      "sha256": "90b78fb08f2704fca40989a1d7fd6961330d07c7a455e4519ef9d40d801efd50"
+    },
+    {
+      "id": "REL-052",
+      "path": "cuban-vodu.md",
+      "sha256": "aea24115d8a76aa04cd6fac497b134d80205fecea370d329ba68202556b25a2a"
+    },
+    {
+      "id": "REL-053",
+      "path": "daejonggyo.md",
+      "sha256": "bce0954d7c57190dbf4432bcf2ac18323ebbd9886e62f285b2d82ddefcd97ae0"
+    },
+    {
+      "id": "REL-054",
+      "path": "deism.md",
+      "sha256": "a30bc0e60c10afc5a2d2a36840cf399f9cd9c89d84e7fa09343b85ba6000d2f1"
+    },
+    {
+      "id": "REL-055",
+      "path": "dinka.md",
+      "sha256": "f7808d19c4d839cfd4fea0c9d601b2220c32929a0b4d4200abdddbcdc83786ab"
+    },
+    {
+      "id": "REL-056",
+      "path": "discordianism.md",
+      "sha256": "40de4c5a889a9b03c3ea657841c2518e8f3a111def151c8b0dcea62fc1552efd"
+    },
+    {
+      "id": "REL-057",
+      "path": "divine-light-mission.md",
+      "sha256": "54bea92b51d0c91048fbcd656353f8ad19642dd0fde83b816f6e5f6069eb1425"
+    },
+    {
+      "id": "REL-058",
+      "path": "divine-science.md",
+      "sha256": "f0bf16dadfdfce3a5e995abc7a2b6f2db059cfbc6733f24ffbbe26b2ab8a871a"
+    },
+    {
+      "id": "REL-059",
+      "path": "druidry-adf.md",
+      "sha256": "fed46b732c52cb7affeace45b1295afc16d67c7625a39d948527647aff7804a5"
+    },
+    {
+      "id": "REL-060",
+      "path": "druidry-obod.md",
+      "sha256": "53508898dbb98d3965a9ca369be9d82194436fe3c4faeb5fdf91afc56e4ba776"
+    },
+    {
+      "id": "REL-061",
+      "path": "druze.md",
+      "sha256": "7b3a1c4f0bfe278a0c08ce8c495a8b10fed71ee04b58802a132e08638aada2d2"
+    },
+    {
+      "id": "REL-062",
+      "path": "eckankar.md",
+      "sha256": "39cb7d947ea06d2d491ad383f0cda46bfe3c12bd202f22096b9c20a902368ac1"
+    },
+    {
+      "id": "REL-063",
+      "path": "egyptian.md",
+      "sha256": "e8a7a907d002afa7f7ff3118e61e1e636a686274a181af8dee14a900f368c301"
+    },
+    {
+      "id": "REL-064",
+      "path": "ethical-culture.md",
+      "sha256": "b81d2bbc3b5fb2eefaeb22077927f83f232db35676b3b10b8fcbc0a71eadef05"
+    },
+    {
+      "id": "REL-065",
+      "path": "falun-gong.md",
+      "sha256": "7e1f1ea4f447f6a769cf17f9b28ddde24a9d5dfe2d048ced9d59819d8abccc64"
+    },
+    {
+      "id": "REL-066",
+      "path": "finnish.md",
+      "sha256": "48dff0a7a6e96be4bf0e3984b8859e4ec685e8fcb65a68225bb49e642bfff542"
+    },
+    {
+      "id": "REL-067",
+      "path": "flds.md",
+      "sha256": "e303a9570ac27898153f56cbd0f046906a4c1d4f9658f45d0fb16939653f2991"
+    },
+    {
+      "id": "REL-068",
+      "path": "gla.md",
+      "sha256": "ff56389ae97e94a395a5260f2c3a8f1e60776369db7646db232220168d53ae21"
+    },
+    {
+      "id": "REL-069",
+      "path": "gnosticism-ancient.md",
+      "sha256": "9bae5f77d8bebfb1f53eecd81d9cf2bad7ab9cac21ce40ad2e334ea15acffe84"
+    },
+    {
+      "id": "REL-070",
+      "path": "gnosticism.md",
+      "sha256": "1cb52611108d085b22426432677aefb2ef12d5fd8296d8e7de4e65cc1f722a82"
+    },
+    {
+      "id": "REL-071",
+      "path": "god-light-association-gla.md",
+      "sha256": "638e91bd5ef9264df018d4768a8423c883abf2893e756e7f68c9ead5501e2ff5"
+    },
+    {
+      "id": "REL-072",
+      "path": "god-light-association.md",
+      "sha256": "a5bb3a8ea006e28b9b28804ca3efe13dc5638e99378dd9e2d50543d6cd1ea438"
+    },
+    {
+      "id": "REL-073",
+      "path": "greek.md",
+      "sha256": "ae6b47bc9de67e3b93b11bebb408e1d11bf6f46acb6f00553b66ff9779f6ce7d"
+    },
+    {
+      "id": "REL-074",
+      "path": "haitian-vodou.md",
+      "sha256": "7ca6012076e9e651b72103fe2a178db576bdf76daa2355a7ed158037010fd2cb"
+    },
+    {
+      "id": "REL-075",
+      "path": "happy-science.md",
+      "sha256": "fcae438d0220973fa3740fadaf7a7d60b113936b5d6133391e706cf2531fa77e"
+    },
+    {
+      "id": "REL-076",
+      "path": "hawaiian.md",
+      "sha256": "90db77c9f478a0adbaf69962d53d02e045e0f1c3014b3b1b53a069b3a4cbed7d"
+    },
+    {
+      "id": "REL-077",
+      "path": "heathenry-asatru.md",
+      "sha256": "124559a5cc0c9c54497fd8e55ba0117d1948af3b481897544139d3b3f4da513a"
+    },
+    {
+      "id": "REL-078",
+      "path": "heathenry-troth.md",
+      "sha256": "d1eb4167f33e93f81d9eb90e45c01d54d082db4df6980a7e6414eebf0e82c7eb"
+    },
+    {
+      "id": "REL-079",
+      "path": "heavens-gate.md",
+      "sha256": "e6c9b256ad6ec6fa7289c799a1c14cf23d351fb1da2a39a51235bd896535136b"
+    },
+    {
+      "id": "REL-080",
+      "path": "hellenism-reconstructionist.md",
+      "sha256": "32ec3e622dfa02df46541508410d8a9d1d532ee99f3fe51a278daa95fdf5f61b"
+    },
+    {
+      "id": "REL-081",
+      "path": "hellenism.md",
+      "sha256": "dd7d8a60fb14b2250a59c5a3c578c625a0b1ef1ba1817e4f42787d1c3f3b3001"
+    },
+    {
+      "id": "REL-082",
+      "path": "hermetic-order-of-the-golden-dawn.md",
+      "sha256": "dfef9c153c34c3e65052194d7eceaddba6d3a930b9b914af94f3ab8373ce7303"
+    },
+    {
+      "id": "REL-083",
+      "path": "hermeticism.md",
+      "sha256": "9d167491fe1f512060a3ea06d1231f492dac84b6bb83e120c6c4e09d9dad0095"
+    },
+    {
+      "id": "REL-084",
+      "path": "hinduism.md",
+      "sha256": "4f8c25afca8f4f62854f0e5778f0253f7e2a0291eab654be36843434664b3e7f"
+    },
+    {
+      "id": "REL-085",
+      "path": "hopi.md",
+      "sha256": "77792b475c8c99250c87d0b9fdea90f212a41e30c7fc55d83f7fb8d75ab8c63f"
+    },
+    {
+      "id": "REL-086",
+      "path": "humanism.md",
+      "sha256": "3a74311df06f78737f73a6ac7749e488d6178d6367af6669b81460535482e917"
+    },
+    {
+      "id": "REL-087",
+      "path": "i-am-movement.md",
+      "sha256": "d4de672b602069fb9973ee975c1f3201fb8d62916b1334fb149c877ba1209ebe"
+    },
+    {
+      "id": "REL-088",
+      "path": "ifa.md",
+      "sha256": "0fe9c417eaded8d957763066f4449afcf6d20157211c7cde225b5bd5e6f9ab25"
+    },
+    {
+      "id": "REL-089",
+      "path": "independent-catholic.md",
+      "sha256": "654558180eece239d7e9c7887949bc1d9a6e79038918b520a9054084bd2ff717"
+    },
+    {
+      "id": "REL-090",
+      "path": "indigenous-folk-traditions.md",
+      "sha256": "ee1c3a4a8a161b2b303dd09de664eee8241a88e8718c535e3dc7d84970e1ef13"
+    },
+    {
+      "id": "REL-091",
+      "path": "integral-yoga.md",
+      "sha256": "b1827141e548d1d5177b614898b68504ef927f97058e73b3602fb4f0faa4873e"
+    },
+    {
+      "id": "REL-092",
+      "path": "iskcon-hare-krishna.md",
+      "sha256": "bbfb20f3e060de602e094213761daab0c862c22d19980c9b414fb5be61712c39"
+    },
+    {
+      "id": "REL-093",
+      "path": "islam.md",
+      "sha256": "37672c8d4187a6bb7c76af5e72f9838c293c37fba255cd036aebbeffbde949aa"
+    },
+    {
+      "id": "REL-094",
+      "path": "jainism.md",
+      "sha256": "b7541d82a2d33e90f66cb13fa531ad6fb2aada0a6e1489a229d5ce390cc37b31"
+    },
+    {
+      "id": "REL-095",
+      "path": "jehovahs-witnesses.md",
+      "sha256": "15783bf83db30d262d51db0aa2d5089c874a2ea7520017f36ea115c880c6adcb"
+    },
+    {
+      "id": "REL-096",
+      "path": "john-frum.md",
+      "sha256": "39d94b2d09db495767d2cba16645c9a76ccb9fdfb6b95c6e82fea4779895a8ca"
+    },
+    {
+      "id": "REL-097",
+      "path": "judaism.md",
+      "sha256": "0a3ae2823a5f7937f68f8c8ddc189ef87bc771c48abb01775d4589626796e3e9"
+    },
+    {
+      "id": "REL-098",
+      "path": "kemeticism.md",
+      "sha256": "7260e82304e63583e99abcefd977b7e82f828dd16041526a6de6eadb77e7bc58"
+    },
+    {
+      "id": "REL-099",
+      "path": "kimbanguism.md",
+      "sha256": "43d0e45c5716895711e55c1bd9f1d1f185a7b00119f788d3a88b91eb27d0a364"
+    },
+    {
+      "id": "REL-100",
+      "path": "lakota-sun-dance.md",
+      "sha256": "47f392143e97b3762dd625cce6cf97069d69d612d116d85f63810c937c08fe0b"
+    },
+    {
+      "id": "REL-101",
+      "path": "lakota-vision-quest.md",
+      "sha256": "3fe2e3b323dee45bd144a93f60a1b9d62b4969444e34e899e2712edaf8aa3028"
+    },
+    {
+      "id": "REL-102",
+      "path": "lakota.md",
+      "sha256": "1ba94a5d382204d46f6d3d5c610c5040f1fadef693f2dd80f7dfa2f98b927f2f"
+    },
+    {
+      "id": "REL-103",
+      "path": "lds-mormons.md",
+      "sha256": "bc31b0b34afd207155bfff53d720c37c494abf83032ffae19ccb458e81cd3c7a"
+    },
+    {
+      "id": "REL-104",
+      "path": "lingayatism.md",
+      "sha256": "0f788884f3a8a57d15cecaf6cb6ddfc0909698d535babe12aa3626da66a7867e"
+    },
+    {
+      "id": "REL-105",
+      "path": "luciferianism.md",
+      "sha256": "fe97ec9f0ed6424da910ff5d5bbbaf4ed58f1722cda60d0e5427bc39143a4294"
+    },
+    {
+      "id": "REL-106",
+      "path": "maasai.md",
+      "sha256": "0b865d24976b80daa48e8a92e4f628ccc5dc23316146dffbf4f0ac99e8893d28"
+    },
+    {
+      "id": "REL-107",
+      "path": "mahikari.md",
+      "sha256": "7a1c970e0dd57b7af2d1e03bfb8d600586fc3a6f0136f1c00606db33978f5b8c"
+    },
+    {
+      "id": "REL-108",
+      "path": "mandaeism.md",
+      "sha256": "d34463e4b6e52128bb3151d2df62493255019a7cc8d9b23d4780f98ba457f78b"
+    },
+    {
+      "id": "REL-109",
+      "path": "manichaeism.md",
+      "sha256": "7c275024fd9a0cae0cc09d3a3f21b79eea9e94655494ee72589a16fa0f9e1f99"
+    },
+    {
+      "id": "REL-110",
+      "path": "maori.md",
+      "sha256": "c1d5d23f814f52f9579eb9c80a3661d8e68a5bbfa3ac1119ba61e479e199ff9b"
+    },
+    {
+      "id": "REL-111",
+      "path": "mapuche.md",
+      "sha256": "8699df968c18a8737c00e2696e09cdc15f5f6f701513a0d0e7850f3f7191b130"
+    },
+    {
+      "id": "REL-112",
+      "path": "maya.md",
+      "sha256": "289a0fd3c03527f1ec0e8357ba62a6a1c08ab2f3731c08f5481a054a85c34306"
+    },
+    {
+      "id": "REL-113",
+      "path": "meher-baba-movement.md",
+      "sha256": "7bf630da233005901fae1ee6a5dadac1646e9b473afe38c724a8c5592d82fc6d"
+    },
+    {
+      "id": "REL-114",
+      "path": "meher-baba.md",
+      "sha256": "9b859cd142c91bf7ac3bb964133e7daf2b820d7e82b6d9620df68cc3d5dd3869"
+    },
+    {
+      "id": "REL-115",
+      "path": "mesopotamian.md",
+      "sha256": "4d73e833b6fafbb69821ccc8e2f107912ec4f074b4d5b5e9373489c75576df8d"
+    },
+    {
+      "id": "REL-116",
+      "path": "mevlevi.md",
+      "sha256": "ca3b0461fbb34c48f04ef2f2207386c2b84a1042164cedddb0a863f089eb7fbb"
+    },
+    {
+      "id": "REL-117",
+      "path": "mithraism.md",
+      "sha256": "1de07919ed15ee93c189fc5991bd8533f734f0c0dd9415311c0a0a07e2199be2"
+    },
+    {
+      "id": "REL-118",
+      "path": "naqshbandi.md",
+      "sha256": "3a69f0828117f0d1ff7205ab1ad6ad6ae5f05bc2cdec75f148819b3ab33d040f"
+    },
+    {
+      "id": "REL-119",
+      "path": "nation-of-islam.md",
+      "sha256": "0b819872f08d1cbe8c0c9322a2b5b979b1d100b19c017babbd49ebd0d999c467"
+    },
+    {
+      "id": "REL-120",
+      "path": "nation-of-yahweh.md",
+      "sha256": "faaafb54cf12c9c22af341164a813e30054a7fe82ae08b503fd48fdcd80ea7aa"
+    },
+    {
+      "id": "REL-121",
+      "path": "native-american-church.md",
+      "sha256": "7b3287455d7eb8777cf2fb23cec158be15f32ce7389325d49be4929574b9d8c0"
+    },
+    {
+      "id": "REL-122",
+      "path": "native-american-religions.md",
+      "sha256": "2229e58357de7c623e3daf688ded9450bd441d3896766e0f17eacb8f7509d3e2"
+    },
+    {
+      "id": "REL-123",
+      "path": "navajo.md",
+      "sha256": "a7354df310c96cf4339edef5237b513053941a65c1b4fc61eef78362d9196966"
+    },
+    {
+      "id": "REL-124",
+      "path": "neo-druidry.md",
+      "sha256": "3a7a1a4c452dc3b1c5043b46ff99c7432794ce5bedf4441518bdeff0be9cbe84"
+    },
+    {
+      "id": "REL-125",
+      "path": "new-thought.md",
+      "sha256": "4b138018bfbeae6115e25f7b1f0c017f6bc4a8342709da90273046a0c1abce18"
+    },
+    {
+      "id": "REL-126",
+      "path": "nichiren-shoshu-soka-gakkai.md",
+      "sha256": "64869fe844beb3677859d77dfb59c2ad8032b0abe92cc2c302620534c3cdf13d"
+    },
+    {
+      "id": "REL-127",
+      "path": "nimatullahi.md",
+      "sha256": "0aabdd11f48946e14011fd71de508c2d9dc3279e9c1273c48484899d935e18f9"
+    },
+    {
+      "id": "REL-128",
+      "path": "norse.md",
+      "sha256": "6ba890e943af225424d5fe3977fd5788733658df4b277b9db82a47891d19b138"
+    },
+    {
+      "id": "REL-129",
+      "path": "objectivism.md",
+      "sha256": "0536998a020aed7cc8babdecfeb77cb2e614e0fde3e183371f859405a70307b5"
+    },
+    {
+      "id": "REL-130",
+      "path": "old-catholic.md",
+      "sha256": "2d9ff8b0b46034058c042ce974aa873b479c3d464c90db8c97dca02688fe120b"
+    },
+    {
+      "id": "REL-131",
+      "path": "olmec.md",
+      "sha256": "0a40660e7a3094ff6ea33d475b1343add25c06df53be5c737551a3ad504ab4af"
+    },
+    {
+      "id": "REL-132",
+      "path": "oneness-pentecostals.md",
+      "sha256": "f3d5fdbdefccd777e8bdb10eb5be356bedbd58d3012332571406beaed35b6ba2"
+    },
+    {
+      "id": "REL-133",
+      "path": "onmyodo.md",
+      "sha256": "5d3f1b13266d093dfd8dcc52759839b9990479bb85a197f6dbc9a626dcb608ab"
+    },
+    {
+      "id": "REL-134",
+      "path": "oomoto.md",
+      "sha256": "4af936150279f70b457e945a30ec7089adcb9c8ff5ae3b33ed3adc3971002f77"
+    },
+    {
+      "id": "REL-135",
+      "path": "ordo-templi-orientis.md",
+      "sha256": "e4b476cad733bba6a1cd926e07cba3a2e56ec0514d37a6b2923aa119876ec23b"
+    },
+    {
+      "id": "REL-136",
+      "path": "osho-rajneesh-movement.md",
+      "sha256": "a73671101b9a0d20b3c3151c2c94e92d1cc1991af9228860aa038588d064ae6f"
+    },
+    {
+      "id": "REL-137",
+      "path": "pachamama.md",
+      "sha256": "3ecf324e2c30049c8a56a5d3d8e1cb0e720190e6aa1bf8cfbb325a0367348454"
+    },
+    {
+      "id": "REL-138",
+      "path": "pacific-islander-faiths.md",
+      "sha256": "410fd9a6b9c6056066c62c0bf0ff6097f9cf450cae84616e60849262a4797ec4"
+    },
+    {
+      "id": "REL-139",
+      "path": "pacific-oceanic.md",
+      "sha256": "cd4641ec0b0e4c5086182bcbc21abe2a08df1d3c37b41c01cdd1531ed4d9f6ba"
+    },
+    {
+      "id": "REL-140",
+      "path": "paliau.md",
+      "sha256": "94420c66604074f658314e935d605b19e7aa7eefe9630a411ae883a153bf29a8"
+    },
+    {
+      "id": "REL-141",
+      "path": "pantheism.md",
+      "sha256": "c1a6a1d67bcd17a2fb50b8ccbf9897bdab87c95d21c3a0733137675e436cdaf8"
+    },
+    {
+      "id": "REL-142",
+      "path": "plymouth-brethren.md",
+      "sha256": "cacc013e036724b2293b7d8b29a2321b6e6b98b16f6f16e1672241ed71d0c03f"
+    },
+    {
+      "id": "REL-143",
+      "path": "polynesian-traditions.md",
+      "sha256": "dd2debb0a92a452ea1857c68fe02bc3390963657a6a6d9bfa60bf438f9b8a113"
+    },
+    {
+      "id": "REL-144",
+      "path": "process-church-of-the-final-judgment.md",
+      "sha256": "fa7f4cf111fe02332b461b04f1407d56c7efb060592dd4d164e91b0d44d35fa4"
+    },
+    {
+      "id": "REL-145",
+      "path": "qadiriyya.md",
+      "sha256": "2299458435f4fbe3fd11986be159c2cc7f193175ce89483dd198d3932aa67945"
+    },
+    {
+      "id": "REL-146",
+      "path": "quakers.md",
+      "sha256": "38f1e5370978d305305747e6c317a98c2a54562676c76914734397edfeed23a5"
+    },
+    {
+      "id": "REL-147",
+      "path": "quimbanda.md",
+      "sha256": "242a25e940a99eb0781efbce1d2fe6296c10425372636200696ed36095d91dec"
+    },
+    {
+      "id": "REL-148",
+      "path": "raelism.md",
+      "sha256": "0794f8a460b7927f075ddd9ab45f838e8fbfb51a9d72bb2785e974c85e5d69a1"
+    },
+    {
+      "id": "REL-149",
+      "path": "rajneesh-osho.md",
+      "sha256": "5fe3b708a6104800b0419dc7731ca07385260a0a1e01d04b9011697fc10fecbf"
+    },
+    {
+      "id": "REL-150",
+      "path": "ramakrishna-mission.md",
+      "sha256": "19517182aeef11f75daa363ef0ebbb15012a67d7590bd18c31a72f2274567a82"
+    },
+    {
+      "id": "REL-151",
+      "path": "rastafarianism.md",
+      "sha256": "b95d89afb850fdeed7a9f8cc2701874e432b8911dc8fe840f2a7fe6f63ea6b7c"
+    },
+    {
+      "id": "REL-152",
+      "path": "religious-science.md",
+      "sha256": "03ff395a2fc4981224b31feaecdbddf0e3a2496b2d445b0c1daa5c15f714e894"
+    },
+    {
+      "id": "REL-153",
+      "path": "remnant-lds.md",
+      "sha256": "3fa74e887c34fd9bf1043a81327a686ec721b3a8dd54c890ab60a11bfcea9824"
+    },
+    {
+      "id": "REL-154",
+      "path": "rodnovery.md",
+      "sha256": "4fba35f759070816a771349e4a7a75a0e194208b67c255815cc3dfc6e130cbf7"
+    },
+    {
+      "id": "REL-155",
+      "path": "roman-reconstructionism.md",
+      "sha256": "e311b8cdeaaed66f1ed3425806be1d4bce0434d6312b1f897487501de5c174f5"
+    },
+    {
+      "id": "REL-156",
+      "path": "roman.md",
+      "sha256": "d373c99de5a78ceaeefd68254a4c51e4adee6ad458729cf82802ed9dd77fe9fa"
+    },
+    {
+      "id": "REL-157",
+      "path": "ryukyuan-religion.md",
+      "sha256": "f4cf0ba539b7b43bd3daf701ca308f437363e332194b11b98d68ad0846e4c646"
+    },
+    {
+      "id": "REL-158",
+      "path": "sahaja-yoga.md",
+      "sha256": "05a20ddfd27f0b21eacd42a04cb730fcc73493215e475c4fcb33028ff961f7b6"
+    },
+    {
+      "id": "REL-159",
+      "path": "sai-baba-movement.md",
+      "sha256": "48b3adb3c548ef2de8281f5119270a880eb6b403cb8148aefdcdbfafb545c1f2"
+    },
+    {
+      "id": "REL-160",
+      "path": "samaritanism.md",
+      "sha256": "11470bb1cff9a77f9b828c74bc13dd7830f07397d7a86722cf6925a6fa286455"
+    },
+    {
+      "id": "REL-161",
+      "path": "san-khoisan.md",
+      "sha256": "6512ee7ba5e846e17dbe294a6104babd951e262612ebb8f62da27ce6e2468261"
+    },
+    {
+      "id": "REL-162",
+      "path": "san.md",
+      "sha256": "5d0222b53312d0a675d62e83e903c12ac34354133d8a5391fea6b09cfac47f47"
+    },
+    {
+      "id": "REL-163",
+      "path": "sant-mat.md",
+      "sha256": "d9af4e5d5c7073acb7042df032aa9c3dc079619752cb0ae2b80cbba48a7102c1"
+    },
+    {
+      "id": "REL-164",
+      "path": "santeria.md",
+      "sha256": "0d1ade95e3a721d1ff3460fa3dce9e2fb414f22d6891c73f572e4a484a75dfce"
+    },
+    {
+      "id": "REL-165",
+      "path": "santhal-tribal.md",
+      "sha256": "3826f6aba73a7b9d02523cc6697b97c192e47e4436dd2643b1d9cfc6ff74a659"
+    },
+    {
+      "id": "REL-166",
+      "path": "santo-daime.md",
+      "sha256": "c4ba75bbae38b047e3433c3e05d3c037fd914492d088e7ec2c96da9eed4552eb"
+    },
+    {
+      "id": "REL-167",
+      "path": "satanic-temple.md",
+      "sha256": "9bb7d9177827a82c2b787cbc83a60c1b691ce38b1f820be9bc41e9bd3c931249"
+    },
+    {
+      "id": "REL-168",
+      "path": "satanism.md",
+      "sha256": "596c35329cdc0bd7d12ae8d695e2043d652ca65e24cfa20da074b026a4bee7c6"
+    },
+    {
+      "id": "REL-169",
+      "path": "sathya-sai-baba-movement.md",
+      "sha256": "4bb6ac8f3fade14b00ff7e9d7329d7a9e0c88a6e170f2ea03629eedd30b7d0c6"
+    },
+    {
+      "id": "REL-170",
+      "path": "sathya-sai-baba.md",
+      "sha256": "e321796dbebb82c2f8081d8ecc4b247d46c7233a0f0c056d062071204057600b"
+    },
+    {
+      "id": "REL-171",
+      "path": "scientology.md",
+      "sha256": "cc2e0dd445d88a97640cea8de5e328ffef129f91a950d4579f781c8df67c6b7d"
+    },
+    {
+      "id": "REL-172",
+      "path": "secular-humanism.md",
+      "sha256": "7a29c6823001cf430c6a2125e27a07216c6661415d3135da7d885c83e8267231"
+    },
+    {
+      "id": "REL-173",
+      "path": "secular.md",
+      "sha256": "01faea92dbe39d789241b1275cacd71e8a182b0df0e802c7aae44b942f51e824"
+    },
+    {
+      "id": "REL-174",
+      "path": "seicho-no-ie.md",
+      "sha256": "5e21328d63693b44ea0faf7595cf3bc73b53088dad342d04b8ff93278a3eae7d"
+    },
+    {
+      "id": "REL-175",
+      "path": "sekai-kyusei-kyo.md",
+      "sha256": "2d43a8120d394cdf5cd2870c6f9edd538324eed412e4d44b7b4d04ac9a303214"
+    },
+    {
+      "id": "REL-176",
+      "path": "self-realization-fellowship.md",
+      "sha256": "9a4195b387c33dd950f6a6477d72580d086376254afcc84f2da345cec3967014"
+    },
+    {
+      "id": "REL-177",
+      "path": "serer.md",
+      "sha256": "dcc22318c5f33b37bc54c784129e41176edd7b15a3b6c2e0509d76ab6a1086ac"
+    },
+    {
+      "id": "REL-178",
+      "path": "shakers.md",
+      "sha256": "cc83c5de0cf1c0c7a14d560b2d52793b7e0c2da7bcc5938dbfe94f1b3dce743c"
+    },
+    {
+      "id": "REL-179",
+      "path": "shinnyo-en.md",
+      "sha256": "d3f70445de549e9ce82e8b6310e45f67d6cd52bfc6a5c6bd97c99c374ee0f51e"
+    },
+    {
+      "id": "REL-180",
+      "path": "shinto.md",
+      "sha256": "ddd68e772923dec667fca0fb3bb6748bb8803788843d5f39f9a5c44ef3a5e1c7"
+    },
+    {
+      "id": "REL-181",
+      "path": "sikhism.md",
+      "sha256": "25e1a192bb4cf2042efd96a8851290f1b219f9cf3470d4e3f23ba91a20402089"
+    },
+    {
+      "id": "REL-182",
+      "path": "slavic.md",
+      "sha256": "0aab473119d427e3e94e8d188d521580dd76426ac63d96aab50ee06c09b6f673"
+    },
+    {
+      "id": "REL-183",
+      "path": "srf.md",
+      "sha256": "4ea22bd88f3f9de02df8fb1f914f5881ae4d424b216003560e2b34bec210698e"
+    },
+    {
+      "id": "REL-184",
+      "path": "summit-lighthouse.md",
+      "sha256": "64ce547362e9bd54e1d7f9ceb3992ad01801bf438cdaaa97d61396d1946f2f4b"
+    },
+    {
+      "id": "REL-185",
+      "path": "swedenborgianism.md",
+      "sha256": "bcd7b8e6634a3e4e013184653e4283e6cda672529fad4aad31fca901d6f8c779"
+    },
+    {
+      "id": "REL-186",
+      "path": "swedenborgians.md",
+      "sha256": "98d8f3498f9f568c84d55a3d41cd15bf91ec72a874858c41dea81e4521416031"
+    },
+    {
+      "id": "REL-187",
+      "path": "taoism.md",
+      "sha256": "253e916a02a6a42522e42c84095a6a5f5ad482dfb16a77b24f4559545ed808ae"
+    },
+    {
+      "id": "REL-188",
+      "path": "temple-of-set.md",
+      "sha256": "347e4b304e9af42abf72a2f446fe2d313284fa87fd62a8ac9afcc0b9ccca4c16"
+    },
+    {
+      "id": "REL-189",
+      "path": "temple-of-the-vampire.md",
+      "sha256": "61cbde09e837195b4a30ceed5122650746d5bebc1f0239b2ddb2deeb714f1d05"
+    },
+    {
+      "id": "REL-190",
+      "path": "tenrikyo.md",
+      "sha256": "ba9880320abcc9df976dd71128596fe3ab33bc55edd89fdfcaa9365a8e93e948"
+    },
+    {
+      "id": "REL-191",
+      "path": "theistic-satanism.md",
+      "sha256": "fabdd186694266f6eff00b6e5bec4d47fc1664a6fbc47a3849752d10c800cd1e"
+    },
+    {
+      "id": "REL-192",
+      "path": "thelema.md",
+      "sha256": "61a810ae77944c7c430bc3e884f2aa2fdf69b3627fe4de2c23dd1d1e866fdf86"
+    },
+    {
+      "id": "REL-193",
+      "path": "theosophy.md",
+      "sha256": "3f0f96bc4266d61943bb9c0c1bb84556b00fa0881579530cac5390c6bc0f73ee"
+    },
+    {
+      "id": "REL-194",
+      "path": "toltec.md",
+      "sha256": "45397cad7c07ce6d4c4626397ba60582cd69cad8a3be09190d7e64d01821bb14"
+    },
+    {
+      "id": "REL-195",
+      "path": "transcendental-meditation.md",
+      "sha256": "af29ee225781ec0aa9d441b0c5c28438050e0610710849571df95e2bc9f4f989"
+    },
+    {
+      "id": "REL-196",
+      "path": "umbanda.md",
+      "sha256": "798f19c2492550e5c1fda44bcfa18437ed3b45fa37d25776e56ded0c78484c74"
+    },
+    {
+      "id": "REL-197",
+      "path": "uniao-do-vegetal.md",
+      "sha256": "5d987c66489a8a7dbb8053dd1bcc8b8e5b192ad293595489fa03a513ff041ce7"
+    },
+    {
+      "id": "REL-198",
+      "path": "unification-church.md",
+      "sha256": "c1cc8a352ed00136544b34edabe43a600541ba38b6259b31e1e66d0f2818cc0b"
+    },
+    {
+      "id": "REL-199",
+      "path": "unity-church.md",
+      "sha256": "9f8c2a500af9bcd4420d3a69d272eedf0831719319fd0f0aa42d1cc65ca42434"
+    },
+    {
+      "id": "REL-200",
+      "path": "universal-medicine.md",
+      "sha256": "8cd3c5f89d86331039fdee246f3cc70d6a0930783d40837fc7ce4ed08f5060a0"
+    },
+    {
+      "id": "REL-201",
+      "path": "vedanta-society.md",
+      "sha256": "5e59b725f468bd5e19b5e7cd48e67d668764498d55fbe9b80026cb79f7d89f31"
+    },
+    {
+      "id": "REL-202",
+      "path": "vodou.md",
+      "sha256": "7640f0a87ceec6c35f973123e8f37e9a7f5c7256cc283650fdc38f15a2ce90cc"
+    },
+    {
+      "id": "REL-203",
+      "path": "vodun.md",
+      "sha256": "5c90ad6abc925ba4719cc2dad9d316648d8da3a5cd48f757a2b7fcd91cda6141"
+    },
+    {
+      "id": "REL-204",
+      "path": "wicca-alexandrian.md",
+      "sha256": "39e72075227e46b13fef28415b4d15a58e711f4e44057b2358c20a0ddfdb25f0"
+    },
+    {
+      "id": "REL-205",
+      "path": "wicca-dianic.md",
+      "sha256": "0e96af1f220192b6a7947ae4b6596bc6d435bb6ed3e8cbdd4ac65483eb1cb102"
+    },
+    {
+      "id": "REL-206",
+      "path": "wicca-eclectic.md",
+      "sha256": "01b58bc92b3fb37245fed9845843924b54a768534ef335c7fe6fa3571da9b7e5"
+    },
+    {
+      "id": "REL-207",
+      "path": "wicca-gardnerian.md",
+      "sha256": "0c1e47ffbfa979a5aca23cd74d2f464a0b6acfe74256d224edeceaff9c36b9cc"
+    },
+    {
+      "id": "REL-208",
+      "path": "wicca.md",
+      "sha256": "d8661310e968d558e94ea0c26fd5c5a08f28c2a7a8e85df89a2ca97e34b94f77"
+    },
+    {
+      "id": "REL-209",
+      "path": "won-buddhism.md",
+      "sha256": "cc6dae63e2bb89c28697907627f008f85c4e4d45bc7d44d820521bce47f20ed4"
+    },
+    {
+      "id": "REL-210",
+      "path": "yali.md",
+      "sha256": "5b8a6f32bc2227340874e1a79285d57d261a86527c6df7f9d1e09c6310e5e523"
+    },
+    {
+      "id": "REL-211",
+      "path": "yazidism.md",
+      "sha256": "315cddbe0a2f6c4633e415b4c284c55534fcd688cca5e999f54d10f3192704ad"
+    },
+    {
+      "id": "REL-212",
+      "path": "yoruba.md",
+      "sha256": "7a2fb984c8fb343308cc84b8621e40d673dd44abc48e4ed485e7e6ee6ba23451"
+    },
+    {
+      "id": "REL-213",
+      "path": "zapotec.md",
+      "sha256": "d1d45e1c99f01f34e412abbb06af2fce17428391c57ccc97762fb96906fc8984"
+    },
+    {
+      "id": "REL-214",
+      "path": "zion-christian-church.md",
+      "sha256": "1cc77503aec9f58378e0b34dd786e34d8ef1c78c89f1607d8868f0aa84b1ce37"
+    },
+    {
+      "id": "REL-215",
+      "path": "zoroastrianism.md",
+      "sha256": "851bedb03f765e3e9005130f80a0395b95507f20a5caf95a75330befcc41a264"
+    },
+    {
+      "id": "REL-216",
+      "path": "zulu.md",
+      "sha256": "c591d260c5bf8f0d63fffe9728cebf1cfb6a74da21d23f36c5d0b6036e6c33cf"
+    }
+  ]
+}

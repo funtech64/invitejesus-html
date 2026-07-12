@@ -1,4 +1,5 @@
 ---
+relId: REL-056
 title: "Discordianism"
 slug: "discordianism"
 ---

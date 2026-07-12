@@ -1,4 +1,5 @@
 ---
+relId: REL-084
 title: "Hinduism"
 slug: "hinduism"
 ---

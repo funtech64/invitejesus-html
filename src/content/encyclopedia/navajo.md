@@ -1,4 +1,5 @@
 ---
+relId: REL-123
 title: "Navajo"
 slug: "navajo"
 ---

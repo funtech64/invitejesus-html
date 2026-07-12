@@ -1,4 +1,5 @@
 ---
+relId: REL-109
 title: "Manichaeism"
 slug: "manichaeism"
 ---

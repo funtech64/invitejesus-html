@@ -1,4 +1,5 @@
 ---
+relId: REL-004
 title: "Africa (Traditional Religions)"
 slug: "africa-traditional-religions"
 ---

@@ -1,4 +1,5 @@
 ---
+relId: REL-020
 title: "Aum Shinrikyo"
 slug: "aum-shinrikyo"
 ---

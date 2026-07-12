@@ -1,4 +1,5 @@
 ---
+relId: REL-077
 title: "Heathenry (Ásatrú)"
 slug: "heathenry-asatru"
 ---

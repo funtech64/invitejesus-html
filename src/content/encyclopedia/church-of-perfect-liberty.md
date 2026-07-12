@@ -1,4 +1,5 @@
 ---
+relId: REL-047
 title: "Church of Perfect Liberty"
 slug: "church-of-perfect-liberty"
 ---

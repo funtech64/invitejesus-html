@@ -1,4 +1,5 @@
 ---
+relId: REL-012
 title: "Ananda Marga"
 slug: "ananda-marga"
 ---

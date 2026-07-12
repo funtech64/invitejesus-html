@@ -1,4 +1,5 @@
 ---
+relId: REL-157
 title: "Ryukyuan Religion"
 slug: "ryukyuan-religion"
 ---

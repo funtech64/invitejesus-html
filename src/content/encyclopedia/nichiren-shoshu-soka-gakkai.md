@@ -1,4 +1,5 @@
 ---
+relId: REL-126
 title: "Nichiren Shōshū/Soka Gakkai"
 slug: "nichiren-shoshu-soka-gakkai"
 ---

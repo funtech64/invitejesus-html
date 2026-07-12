@@ -1,4 +1,5 @@
 ---
+relId: REL-094
 title: "Jainism"
 slug: "jainism"
 ---
